@@ -1,5 +1,7 @@
 site: Idyllic's Website
 
+baseurl: /idyllicperipherals.github.io
+
 collections:
   pages:
     output: true
