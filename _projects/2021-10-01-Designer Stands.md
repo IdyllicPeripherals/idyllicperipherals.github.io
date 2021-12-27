@@ -59,11 +59,12 @@ My stands will always come with adhesive rubber to help protect keyboards as the
 	<img src="/images/Photo_Projects/Stands21.jpg">
 	<img src="/images/Photo_Projects/Stands22.jpg">
 	<img src="/images/Photo_Projects/Stands23.jpg">
-	<img src="/images/Photo_Projects/Stands24.jpg">
+	<img src="/images/Photo_Projects/stands24.jpg">
 	<img src="/images/Photo_Projects/Stands8.jpg">
 	<img src="/images/Photo_Projects/Stands9.jpg">
 	<img src="/images/Photo_Projects/Stands10.jpg">
 	<img src="/images/Photo_Projects/Stands11.jpg">
+	<img src="/images/Photo_Projects/stands25.jpg">
 </div>
 
 ---
