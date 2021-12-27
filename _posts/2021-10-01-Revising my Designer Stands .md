@@ -6,7 +6,7 @@ featured_image: '/images/Photo_Blog/Stands3.jpg'
 ---
 
 <div class="gallery2" data-columns="1">
-	<img src="/images/Photo_Blog/Stands2.jpg">
+	<img src="/images/Photo_Blog/Stands2.JPG">
 </div>
 
 ---
@@ -23,5 +23,5 @@ The abundance of screws didn't really improve the stand’s durability and was p
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/Photo_Blog/Stands.jpg">
+	<img src="/images/Photo_Blog/Stands.JPG">
 </div>
