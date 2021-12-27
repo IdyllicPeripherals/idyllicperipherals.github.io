@@ -61,7 +61,7 @@ color_settings:
   accent_color: '#FFA21A'
   border_color: '#dddddd'
   overlay_background_color: '#B4EEFF'
-  overlay_text_color: '#e1e1e1'
+  overlay_text_color: '#2A2F36'
   overlay_accent_color: '#2A2F36'
   error_color: '#75d4eb'
 
