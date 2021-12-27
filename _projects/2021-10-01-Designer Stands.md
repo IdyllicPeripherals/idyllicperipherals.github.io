@@ -44,29 +44,26 @@ My stands will always come with adhesive rubber to help protect keyboards as the
 --- 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/Photo_Projects/stands2.jpg">
-	<img src="/images/Photo_Projects/stands16.jpg">
-	<img src="/images/Photo_Projects/stands18.jpg">
-	<img src="/images/Photo_Projects/stands4.jpg">
-	<img src="/images/Photo_Projects/stands5.jpg">
-	<img src="/images/Photo_Projects/stands6.jpg">
-	<img src="/images/Photo_Projects/stands7.jpg">
-	<img src="/images/Photo_Projects/stands12.jpg">
-	<img src="/images/Photo_Projects/stands13.jpg">
-	<img src="/images/Photo_Projects/stands17.jpg">
-	<img src="/images/Photo_Projects/stands19.jpg">
-	<img src="/images/Photo_Projects/stands20.jpg">
-	<img src="/images/Photo_Projects/stands21.jpg">
-	<img src="/images/Photo_Projects/stands22.jpg">
-	<img src="/images/Photo_Projects/stands23.jpg">
-	<img src="/images/Photo_Projects/stands24.jpg">
-	<img src="/images/Photo_Projects/stands8.jpg">
-	<img src="/images/Photo_Projects/stands9.jpg">
-	<img src="/images/Photo_Projects/stands10.jpg">
-	<img src="/images/Photo_Projects/stands11.jpg">
-	
-
-	
+	<img src="/images/Photo/Stands2.jpg">
+	<img src="/images/Photo/Stands16.jpg">
+	<img src="/images/Photo/Stands18.jpg">
+	<img src="/images/Photo/Stands4.jpg">
+	<img src="/images/Photo/Stands5.jpg">
+	<img src="/images/Photo/Stands6.jpg">
+	<img src="/images/Photo/Stands7.jpg">
+	<img src="/images/Photo/Stands12.jpg">
+	<img src="/images/Photo/Stands13.jpg">
+	<img src="/images/Photo/Stands17.jpg">
+	<img src="/images/Photo/Stands19.jpg">
+	<img src="/images/Photo/Stands20.jpg">
+	<img src="/images/Photo/Stands21.jpg">
+	<img src="/images/Photo/Stands22.jpg">
+	<img src="/images/Photo/Stands23.jpg">
+	<img src="/images/Photo/Stands24.jpg">
+	<img src="/images/Photo/Stands8.jpg">
+	<img src="/images/Photo/Stands9.jpg">
+	<img src="/images/Photo/Stands10.jpg">
+	<img src="/images/Photo/Stands11.jpg">
 </div>
 
 ---
