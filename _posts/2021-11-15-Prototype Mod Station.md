@@ -5,7 +5,9 @@ date: 2021-11-15
 description: 
 featured_image: '/images/Photo_Photography/Early_Mod2.jpg'
 ---
+
 This mod station is much more compressed and has a smaller form-factor. I did not like how it looked and decided to adjust spacing and placement. 
+
 ---
 
 
