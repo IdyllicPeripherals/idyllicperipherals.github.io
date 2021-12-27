@@ -1,6 +1,6 @@
 ---
 title: ' Stainless Steel Switch Holder'
-subtitle: 'Cut Locally Using Local Infrastructure'
+subtitle: 'Produced Using Local Infrastructure'
 date: 2019-07-04
 description: 
 featured_image: '/images/Photo_Photography/Stainless_Steel_Plate5.JPG'
