@@ -19,7 +19,7 @@ menu_settings:
       url: '/about'
 
 grid_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.9
   grid_spacing: 20
 
 
@@ -60,8 +60,8 @@ color_settings:
   text_light_color: '#9ca1a1'
   accent_color: '#FFA21A'
   border_color: '#dddddd'
-  overlay_background_color: '#75d4eb'
-  overlay_text_color: '#ffffff'
+  overlay_background_color: '#B4EEFF'
+  overlay_text_color: '#e1e1e1'
   overlay_accent_color: '#2A2F36'
   error_color: '#75d4eb'
 
