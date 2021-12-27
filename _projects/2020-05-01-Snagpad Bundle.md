@@ -19,13 +19,13 @@ featured_image: '/images/Photo_Projects/Snagpad4.jpg'
 ##   Colourful Beginner Kits Reminiscent of Snagpads Past
 ---
 
-With the assistance of Don (Flehrad), during Mid 2020 I was able to reintroduce some snagpads back into the community. The kits were listed on The Keyboard Treehouse platform. 
+With the assistance of Don (Flehrad), during Mid 2020 I was able to reintroduce some snagpads back into the community. The kits were listed on The Keyboard Treehouse. 
 
 Snagpads are a DIY kit with VIA and QMK support; users are required to do some through-hole soldering to get things running. 
 
-My snagpads use 3mm Coloured acrylic with fixed layouts only. They come in with Gold screws and a choice of Pink, Orange and Black. 
+My snagpads use 3mm Coloured acrylic with fixed layouts only. They come with Gold screws and a range of Pink, Orange and Black acrylic. 
 
-I decided to provide these kits in pairs of two because I felt like this would be the best way for a beginner to get practice. They can learn from Snagpad (1) and possibly correct any mistakes in their technique when building Snagpad (2). In theory this would benefit them greatly, more than if given only 1 attempt – basically engagement through Experiential Learning. 
+I decided to provide these kits in pairs of two because I felt like this would be the best way for a beginner to get the most practice. They can learn from Snagpad (1) and possibly correct any mistakes in their technique when building Snagpad (2). In theory this would benefit them more than if given only one attempt – immediate oppertunity to apply some Experiential Learning. 
 
 ---
 **References**
