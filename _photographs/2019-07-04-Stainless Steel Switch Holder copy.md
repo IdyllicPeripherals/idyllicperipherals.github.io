@@ -7,9 +7,9 @@ featured_image: '/images/Photo_Photography/Stainless_Steel_Plate5.JPG'
 ---
 
 <div class="gallery" data-columns="2">
-    <img src="/images/Photo_Photography/Stainless_Steel_Plate.JPG">
-    <img src="/images/Photo_Photography/Stainless_Steel_Plate2.JPG">
-    <img src="/images/Photo_Photography/Stainless_Steel_Plate3.JPG">
+    <img src="/images/Photo_Photography/Stainless_Steel_Plate.jpg">
+    <img src="/images/Photo_Photography/Stainless_Steel_Plate2.jpg">
+    <img src="/images/Photo_Photography/Stainless_Steel_Plate3.jpg">
     <img src="/images/Photo_Photography/Stainless_Steel_Plate4.JPG">
 </div>
 

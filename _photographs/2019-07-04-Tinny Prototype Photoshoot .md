@@ -11,7 +11,7 @@ featured_image: '/images/Photo_Photography/Tinny4.JPG'
     <img src="/images/Photo_Photography/Tinny2.JPG">
     <img src="/images/Photo_Photography/Tinny4.JPG">
     <img src="/images/Photo_Photography/Tinny3.JPG">
-    <img src="/images/Photo_Photography/Tinny5.JPG">
+    <img src="/images/Photo_Photography/Tinny5.jpg">
     <img src="/images/Photo_Photography/Tinny.JPG">
-    <img src="/images/Photo_Photography/Tinny7.JPG">
+    <img src="/images/Photo_Photography/Tinny7.jpg">
 </div>
