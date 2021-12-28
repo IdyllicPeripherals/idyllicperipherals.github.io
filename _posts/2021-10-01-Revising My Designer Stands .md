@@ -1,5 +1,5 @@
 ---
-title: 'Revising my Designer Stands'
+title: 'Revising My Designer Stands'
 date: 2021-10-01 00:00:00
 description: What to do with so many screws?.
 featured_image: '/images/Photo_Blog/Stands3.jpg'
