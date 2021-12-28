@@ -1,5 +1,5 @@
 ---
-title: 'My Acrylic Primrose Prime - E Design'
+title: 'My Primrose Prime - E Design'
 date: 2021-07-18 00:00:00
 description: Flowering Purple and Green Acrylic Cases.
 featured_image: '/images/Photo_Blog/Primrose.jpg'
