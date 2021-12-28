@@ -1,6 +1,6 @@
 ---
-title: ' Prototype Mod Station'
-subtitle: 'Early Version of my Idyllic Mod Station'
+title: 'Early Mod Station Design'
+subtitle: 'The Prototype Version of my Idyllic Mod Station'
 date: 2021-11-15
 description: 
 featured_image: '/images/Photo_Photography/Early_Mod2.jpg'
