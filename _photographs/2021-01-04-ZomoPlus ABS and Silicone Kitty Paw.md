@@ -1,6 +1,6 @@
 ---
 title: ' ZomoPlus ABS and Silicone Kitty Paw'
-subtitle: 'Artisian Keycap on E-White Volcanoe660'
+subtitle: 'Artisan Keycap on E-White Volcanoe660'
 date: 2021-01-04
 description: 
 featured_image: '/images/Photo_Photography/Zomo2.JPG'
