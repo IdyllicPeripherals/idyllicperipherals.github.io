@@ -37,9 +37,9 @@ My stands will always come with adhesive rubber to help protect keyboards as the
 
 ---
 
-### Buy It Now
+### Check Out the Listing Here
 
-**[Check Out the Listing Here](https://dailyclack.com/products/designer-keyboard-stand){:target="_blank"}**
+**[Daily Clack](https://dailyclack.com/products/designer-keyboard-stand){:target="_blank"}**
 
 --- 
 
