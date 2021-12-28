@@ -13,10 +13,10 @@ featured_image: '/images/Photo_Blog/DyeMXTops.jpg'
 
 ## A Unique and Custom Aesthetic Change 
 
-I’ve had success dyeing Gateron Milky Tops, I’m assuming that Gazzew’s new Outemu range could probably accept coloured dyes as well. 
+I’ve had success dyeing Gateron Milky Tops; I’m assuming Gazzew’s new Outemu range could probably accept dyes as well. 
 
-Clear PC tops and Black Nylon Cherry Tops don’t change their colour when heated in a dye solution.  
+Clear PC tops and Black Cherry tops don’t change their colour when heated in a dye solution.  
 
-I simply added a small amount of dye solution into a metal pan and brought it to boil before adding the Milky Tops. Obviously, their colour depends on how long they are kept in the solution; getting consistent colours is extremely difficult if you're only doing small batches at a time.  
+I simply added a small amount of dye solution into a metal pan and brought it to boil before adding Milky Tops. Obviously, their colour depends on how long they're kept in the solution; getting consistent colours is extremely difficult if you're only doing small batches at a time.  
 
 This method also works for dyeing white POM switch stems, why you’d want to do that, I do not know ¯\_(ツ)_/¯ . 
