@@ -3,7 +3,7 @@ title: 'Idyllic Mod Station'
 subtitle: 'My casual, compact and cosy approach to switch lubing'
 date: 2021-12-01 00:00:00
 description: My Casual, Compact and Cosy Approach to Switch Lubing.
-featured_image: '/images/Photo_Projects/Idyllic_10_Mod_StationC.jpg'
+featured_image: '/images/Photo_Projects/Idyllic_10_Mod_Station.jpg'
 ---
 
 <div class="gallery" data-columns="3">
