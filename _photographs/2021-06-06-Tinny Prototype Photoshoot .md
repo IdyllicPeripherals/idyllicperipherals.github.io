@@ -1,7 +1,7 @@
 ---
 title: ' Tinny Prototype Photoshoot'
 subtitle: 'Pastel Pink, Green, Blue and Purple Tinny50 Keyboards '
-date: 2019-07-04
+date: 2021-06-06
 description: 
 featured_image: '/images/Photo_Photography/Tinny4.JPG'
 ---

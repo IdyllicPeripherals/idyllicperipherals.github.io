@@ -1,7 +1,7 @@
 ---
 title: ' Prototype Designer Stands'
 subtitle: 'Early Test Units of Some Colourful Designer Stands'
-date: 2019-07-04
+date: 2021-02-7
 description: 
 featured_image: '/images/Photo_Photography/StandsV1/StandsProt1.JPG'
 ---

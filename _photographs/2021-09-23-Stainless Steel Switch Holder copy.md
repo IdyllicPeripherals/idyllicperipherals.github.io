@@ -1,7 +1,7 @@
 ---
 title: ' Stainless Steel Switch Holder'
 subtitle: 'Produced Using Local Infrastructure'
-date: 2019-07-04
+date: 2021-09-23
 description: 
 featured_image: '/images/Photo_Photography/Stainless_Steel_Plate5.JPG'
 ---

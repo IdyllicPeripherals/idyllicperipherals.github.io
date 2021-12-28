@@ -1,7 +1,7 @@
 ---
 title: ' Acrylic Alice with Alu Plate'
 subtitle: 'GMK Frost Witch on a Liliac Plate in a Stacked Acrylic Case'
-date: 2019-07-04
+date: 2021-12-12
 description: 
 featured_image: '/images/Photo_Photography/Acrylic_Alice.jpg'
 ---

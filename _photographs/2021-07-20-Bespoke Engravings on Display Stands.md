@@ -1,7 +1,7 @@
 ---
 title: ' Bespoke Engravings on Display Stands'
-subtitle: 'Adding some personalision'
-date: 2019-07-04
+subtitle: 'Adding Some Personalisation'
+date: 2021-07-20
 description: 
 featured_image: '/images/Photo_Photography/StandBadge.JPG'
 ---

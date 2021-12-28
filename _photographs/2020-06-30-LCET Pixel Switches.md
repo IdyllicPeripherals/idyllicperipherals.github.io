@@ -1,7 +1,7 @@
 ---
 title: 'LCET Pixel Switches'
 subtitle: 'Nylon Bottom, PC Top and POM Stem'
-date: 2019-07-04
+date: 2020-06-30
 description: 
 featured_image: '/images/Photo_Photography/LCET_Switches.jpg'
 ---
