@@ -25,8 +25,8 @@ In addition to providing an open sourced case design; I produced and sold anothe
 
 ---
 **References**
-* www.aeboards.com/ext65r2
-* github.com/IdyllicPeripherals/Laser_Cutter_Files/tree/master/AEBoards_EXT65
+* [Aeboard's Website](https://www.aeboards.com/ext65r2){:target="_blank"}
+* [Github 2D File](https://github.com/IdyllicPeripherals/Laser_Cutter_Files/tree/master/AEBoards_EXT65){:target="_blank"}
 
 --- 
 

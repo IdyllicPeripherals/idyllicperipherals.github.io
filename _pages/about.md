@@ -1,6 +1,6 @@
 ---
 title: About Me
-description: Short Introduction about who Idyllic is.
+description: Hey, My name is Tommy and I'm a Mechanical Keyboard Enthusiast.
 featured_image: /images/social.jpg
 ---
 
