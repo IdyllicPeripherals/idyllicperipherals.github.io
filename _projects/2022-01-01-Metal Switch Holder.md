@@ -9,8 +9,7 @@ featured_image: '/images/Photo_Projects/Metal.jpg'
 ### In Progress (December 2021)
 ---
 
-<div class="gallery" data-columns="2">
-	<img src="/images/Photo_Projects/Metal.jpg">
+<div class="gallery" data-columns="1">
 	<img src="/images/Photo_Projects/Metal.jpg">
 </div> 
 
