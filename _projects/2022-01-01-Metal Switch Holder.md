@@ -6,7 +6,7 @@ description: Idyllic's experience with making switch films for keyboard switches
 featured_image: '/images/Photo_Projects/Metal.jpg'
 ---
 
-### In Progress (27-12-2021)
+### In Progress (December 2021)
 ---
 
 <div class="gallery" data-columns="2">
