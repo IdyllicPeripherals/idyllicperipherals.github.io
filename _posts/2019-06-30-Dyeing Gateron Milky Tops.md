@@ -2,7 +2,7 @@
 title: 'Dyeing Gateron Milky Tops'
 date: 2018-06-30 00:00:00
 description: A Unique and Custom Aesthetic Change.
-featured_image: '/images/Photo_Blog/DyeMXTops.jpg"'
+featured_image: '/images/Photo_Blog/DyeMXTops.jpg'
 ---
 
 <div class="gallery2" data-columns="1">
