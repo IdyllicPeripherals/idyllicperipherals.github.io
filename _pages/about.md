@@ -1,7 +1,7 @@
 ---
 title: About Me
 description: Short Introduction about who Idyllic is.
-featured_image: /images/demo/demo-landscape.jpg
+featured_image: /images/social.jpg
 ---
 
 
