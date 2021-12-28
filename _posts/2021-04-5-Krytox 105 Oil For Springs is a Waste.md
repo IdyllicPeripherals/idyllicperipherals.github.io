@@ -1,5 +1,5 @@
 ---
-title: 'Krytox 105 Oil for Springs is a Waste'
+title: 'Krytox 105 Oil For Springs is a Waste'
 date: 2021-04-5 00:00:00
 description: My Opinion - Using Krytox 105 on Springs.
 featured_image: '/images/Photo_Blog/Oil3.jpg'
