@@ -3,7 +3,7 @@ title: ' Valor PCB and Rainbow Jellybean RGB '
 subtitle: 'GMK Minimal and Magenta R1 1u LED + CMYW Modifiers from OriginativeCo.'
 date: 2022-01-8
 description: 
-featured_image: '/images/Photo_Photography/Acrylic_TGR_Alice_Led_2.jpg'
+featured_image: '/images/Photo_Photography/Acrylic_TGR_Alice_Led_3.jpg'
 ---
 
 <div class="gallery" data-columns="2">
