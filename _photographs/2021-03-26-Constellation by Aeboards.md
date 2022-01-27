@@ -1,6 +1,6 @@
 ---
 title: 'Constellation by Aeboards'
-subtitle: 'GMK Olivia on the Vikery Auction Edition'
+subtitle: 'GMK Olivia on the Rose Gold Vikery Auction Edition'
 date: 2021-03-26
 description: 
 featured_image: '/images/Photo_Photography/Constell1.jpg'
