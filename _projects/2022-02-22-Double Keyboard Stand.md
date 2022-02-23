@@ -21,7 +21,7 @@ A stand designed to hold two keyboards should be sturdy. Enthusiast boards can w
 
 I’ve used a generous, 9mm of matte black acrylic to guarantee my double stands are as stable, secure and reliable as possible.
 
-In addition to thick acrylic, I’ve also provided thick strips of adhesive rubber to help provide keyboards with padding and support. The rubber will minimize the risk of accidental scratching and slipping – an occurrence often overlooked. 
+In addition to thick acrylic, I’ve also incorporated thick strips of adhesive rubber to help provide keyboards with padding and support. The rubber will minimize the risk of accidental scratching and slipping – an occurrence often overlooked. 
 
 These 8mm rubber strips are custom-ordered and produced at a relatively low quantity, making them slightly more expensive than other alternatives. 
 
