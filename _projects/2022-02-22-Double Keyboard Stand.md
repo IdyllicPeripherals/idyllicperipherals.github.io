@@ -28,6 +28,11 @@ These 8mm rubber strips are custom-ordered and produced at a relatively low quan
 Though this means the overall cost increases, I believe that their abundance on my design can be appreciated by the end-user.
 
 
+**Description**
+- Matte Black
+- 375g
+- 12.5cm (H) x 17cm (W) x 20cm (D) 
+
 ### Build Guide:
 
 **[https://imgur.com/a/1gW53nO](https://imgur.com/a/1gW53nO){:target="_blank"}**
