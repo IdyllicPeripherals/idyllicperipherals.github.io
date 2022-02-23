@@ -2,7 +2,7 @@
 title: 'Metal Switch Holder'
 subtitle: '1.2mm Mild Steel'
 date: 2022-01-01 00:00:00
-description: Idyllic's experience with making switch films for keyboard switches, using laser processing.
+description: Locally produced switch holder.
 featured_image: '/images/Photo_Projects/Metal.jpg'
 ---
 
