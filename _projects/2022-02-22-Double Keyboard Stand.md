@@ -19,7 +19,7 @@ featured_image: '/images/Photo_Projects/Double_Keyboard_Stand_Front_View.jpg'
 
 A stand designed to hold two keyboards should be sturdy. Enthusiast boards can weigh well over >1kg each, making it essential for a display stand to be equally as hefty. 
 
-I’ve used a generous, 9mm of matte black acrylic to guarantee my double stands as stable, secure and reliable as possible.
+I’ve used a generous, 9mm of matte black acrylic to guarantee my double stands are as stable, secure and reliable as possible.
 
 In addition to thick acrylic, I’ve also provided thick strips of adhesive rubber to help provide keyboards with padding and support. The rubber will minimize the risk of accidental scratching and slipping – an occurrence often overlooked. 
 
