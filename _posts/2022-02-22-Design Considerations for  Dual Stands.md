@@ -51,7 +51,7 @@ If I’m displaying two of my beloved, >$1,000 keyboards on a shelf, an overhang
 
 ---
 
->###### "_What's the point of a display piece that can't actually fit in the space you want to display it?"_
+>###### "_What is the point of a display piece that can't actually fit in the space you want to display it?"_
 
 ---
 
