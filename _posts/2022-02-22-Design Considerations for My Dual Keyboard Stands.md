@@ -57,7 +57,7 @@ If I’m displaying two of my beloved keyboards on a shelf, an overhanging keybo
 
 ### Affordability
 
-For better or worse, I’m blessed with a pretty good Standard of Living here in Australia. Unfortunately, that also means the price of my goods will reflect that; given I am the one producing and packaging everything in-house. 
+For better or worse, I’m blessed with a pretty good Standard of Living here in Australia. Unfortunately, that also means the price of my goods will reflect that; given I'm producing and packaging everything in-house. 
 
 Pricing involves multiple factors; however in its simplest, machine-processing time, material cost, and labour are major influencers. 
 
