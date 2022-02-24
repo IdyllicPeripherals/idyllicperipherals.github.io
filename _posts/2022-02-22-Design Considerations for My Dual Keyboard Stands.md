@@ -30,7 +30,7 @@ I’m aware some people detest the visuals of a dual stand which hides the secon
 ### Practicality
 {% comment %}**_What value does a double stand provide, that two singular stands do not?_**{% endcomment %}
 
-A current advantage of my design is the small form-factor; people can now keep two keyboards in a space which would normally only fit one. I believe that it's important for me to consider the end-user's use-case, and I should try to accommodate their needs where possible. While there isn't a standard size for a shelf, by keeping my design small, I open up more opportunities for spaces which can fit my Double Stand. The Double Stand has a depth of 20cm, which is as compact as I could get without too many compromises. 
+A current advantage of my design is the small form-factor; people can now keep two keyboards in a space which would normally only fit one. I believe it's important for me to consider the end-user's use-case, and I should try to accommodate their needs where possible. While there isn't a standard size for a shelf, by keeping my design small, I open up more opportunities for spaces which can fit my Double Stand. The Double Stand has a depth of 20cm, which is as compact as I could get without too many compromises. 
 
 ---
 
