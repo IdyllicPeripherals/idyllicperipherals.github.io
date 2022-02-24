@@ -1,7 +1,7 @@
 ---
 title: 'Design Considerations for Dual Stands'
-date: 2021-12-31 00:00:00
-description: Things I've thought about.
+date: 2022-02-22 00:00:00
+description: Things I've thought about for my double stand.
 featured_image: '/images/Photo_Blog/Double_Stand.jpg'
 ---
 
@@ -15,7 +15,7 @@ featured_image: '/images/Photo_Blog/Double_Stand.jpg'
 ### Aesthetics
 Initially I wanted my design to be a simple shape, flat without any “points and peaks”. However, for this design to happen, the second display ledge cannot be lower than where the first ledge ends. 
 
-While this isn’t a problem on its own, it leads to some future predicaments for both me as the producer, and customers as the end-user. Ultimately, I decided to completely re-evaluate my approach and abandon the idea of a double stand that fully displays 2 boards at once. 
+While this isn’t a problem on its own, it leads to some future predicaments for both me as the producer, and customers as the end-user. Ultimately, I decided to completely re-evaluate my approach and abandon the idea of a simple shaped double stand. 
 
 
 ### Practicality
