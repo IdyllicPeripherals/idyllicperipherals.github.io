@@ -15,26 +15,25 @@ featured_image: '/images/Photo_Blog/Double_Stand.jpg'
 ### Aesthetics
 Initially I wanted my design to be a simple shape, flat without any “points and peaks”. However, for this design to happen, the second display ledge cannot be lower than where the first ledge ends. 
 
-While this isn’t a problem on its own, it leads to some future predicaments for both me as the producer, and customers as the end-user. Ultimately, I decided to completely re-evaluate my approach and abandon the idea of a simple shaped double stand. 
+While this isn’t a problem on its own, it leads to some future predicaments for both me as the producer, and customers as the end-user. Ultimately, I decided to completely re-evaluate my approach and abandon the idea of a simple shaped Double Stand. 
 
+I’m conscious some people detest the visuals of a dual stand which hides the 2nd keyboard behind the 1st, however I feel visuals are worth sacrificing for the sake of practicality. 
 
 ### Practicality
-**_What value does a double stand provide that two singular stands cannot?_**
+**_What value does a double stand provide, that two singular stands cannot?_**
 
-I’m conscious some people detest the visuals of a double stand which hides the 2nd keyboard behind the 1st, however I feel visuals are worth sacrificing for the sake of practicality. 
-
-Currently, an advantage of my Double Stand design is its small form-factor. I believe that a stand which can fit on as many shelves and display units as possible is an extremely important consideration. The “less desirable” aesthetics of the side-profile a worthwhile trade-off for better compatibility and a better user experience. My double stands have a depth of 20cm, which is as compact as I could get without too many compromises. 
+Currently, an advantage of my Double Stand design is it's small form-factor; People can now keep two keyboards in a space which would normally only fit one. I believe that it is important to consider the end-users "use-case" and I should try to accommodate their needs where possible. While there isn't a standard size for a shelf, by keeping my design small, I open up more opportunities for places which can fit my Double Stand. The Double Stand has a depth of 20cm, which is as compact as I could get without too many compromises. 
 
 <div class="gallery2" data-columns="1">
 <img src="/images/Photo_Blog/Double_Stand_C.jpg">
-<p>The final acrylic design is much more compact than the initial cardboard design.</p>
+<p>The final acrylic design is much more compact than the initial design.</p>
 </div>
 
 **_What's the value of a display piece that can't actually fit in the area you want to display it?_**
 
-Anecdotally, the book shelves I’ve measured are between 20cm and 30cm in depth; for additional reference a vertical A4 sheet of paper is 21cm in width –  so I think it’s fair to assume around 21cm is a good reference point for a shelving unit. 
+After a trip to IKEA, the book shelves I’ve measured are between 20cm and 30cm in depth. For additional reference, a vertical A4 sheet of paper is 21cm in width; I think it’s fair to say around 21cm is a good reference point to use for the depth of shelving unit. 
 
-If I’m displaying my two of my beloved, >$1,000 keyboards on a shelving unit, an overhanging display stand is not an option, the display stand needs to be smaller than the display shelf. I do not want to be taking any risks because an accidental bump might happen.
+If I’m displaying two of my beloved, >$1,000 keyboards on a shelf, an overhanging keyboard stand is not an option, the stand needs to be smaller than the shelf. I do not want to risk any accidental bumps or knocks.
 
 **_How often will someone be looking at the side profile of the stand, shouldn’t focus be on the two beautiful keyboards on display?_**
 
@@ -43,17 +42,16 @@ If I’m displaying my two of my beloved, >$1,000 keyboards on a shelving unit, 
 
 For better or worse, I’m blessed with a pretty good Standard of Living here in Australia. Unfortunately, that also means the price of my goods will reflect that; given I am the one producing and packaging all in-house. 
 
-Pricing involves multiple factors, however in its simplest, machine-processing time, material cost, and labour are major influencers. 
+Pricing involves multiple factors; however in its simplest, machine-processing time, material cost, and labour are major influencers. 
 
-After a lot of experimenting and calculations, I can confirm that committing with my current small-form-factor Double Stand design, as opposed to a larger design, means: 
+I can confirm a few advantages my current design has, as opposed to a larger design:
 
 * Faster processing times on the laser machine 
 * Uses less materials -> Less surface area -> Efficient nesting options
 * Easier and quicker to handle + pack
 
-All of which are extremely desirable because it means “a more affordable” product for the consumer. 
-It’s completely understandable for a customer to hold little regard for the intangibles, and instead simply want X item to serve Y purpose at a low cost, which is why I’ve tried my best to optimise wherever possible. 
-
+The points above are extremely desirable because it means I can offer a “more affordable” product to the customer.
+It’s completely understandable for someone to hold little regard for the intangibles, and instead simply want X item to serve Y purpose at a low cost, which is why I’ve tried my best to optimize wherever possible.
 					
 ---
 ### Cardboard Prototypes of My Inital Design ###
