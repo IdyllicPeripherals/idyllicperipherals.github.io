@@ -15,9 +15,9 @@ featured_image: '/images/Photo_Blog/Double_Stand.jpg'
 ### Aesthetics
 {% comment %}**_How often will someone be looking at the side profile of the stand, shouldn’t focus be on the two beautiful keyboards on display?_** {% endcomment %}
 
-Initially I wanted my design to be a simple shape, flat without any “points and peaks”. However, for this design to happen, the second display ledge cannot be lower than where the first ledge ends. 
+Initially, I wanted my design to be a simple shape, flat without any “points or peaks”. However, for this design to happen, the second ledge cannot be lower than where the first ledge ends. 
 
-While this isn’t a problem on its own, it leads to some future predicaments for both me as the producer, and customers as the end-user. Ultimately, I decided to completely re-evaluate my approach and abandon the idea of a simple shaped Double Stand. 
+While this isn’t necessarily a problem, it leads to some future predicaments for both me as the producer, and the customer as the end-user. Ultimately, I decided to completely re-evaluate my approach and abandon the idea of a simple shaped Double Stand. 
 
 I’m conscious some people detest the visuals of a dual stand which hides the 2nd keyboard behind the 1st, however I feel visuals are worth sacrificing for the sake of practicality. 
 
