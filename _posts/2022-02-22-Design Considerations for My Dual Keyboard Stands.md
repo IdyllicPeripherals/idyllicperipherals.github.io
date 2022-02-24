@@ -67,7 +67,7 @@ A few advantages my current design has, as opposed to a larger design are:
 * Uses less materials -> Less surface area -> Efficient nesting options
 * Easier and quicker to handle + pack
 
-The points above are extremely desirable because it means I can offer a “more affordable” product to the customer.
+The points above are extremely imortant and desirable because it means I can offer customers a “more affordable” product.
 
 I’ve tried my best to optimize wherever possible because I understand some customers are simply after "X item to serve Y purpose at a low cost". 
 					
