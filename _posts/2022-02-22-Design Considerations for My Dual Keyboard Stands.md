@@ -19,7 +19,7 @@ Initially, I wanted my design to be a simple shape, flat without any “points o
 
 While this isn’t necessarily a problem, it leads to some future predicaments for both me as the producer, and the customer as the end-user. Ultimately, I decided to completely re-evaluate my approach and abandon the idea of a simple shaped Double Stand. 
 
-I’m aware some people detest the visuals of a dual stand which hides the second keyboard behind the first, however I feel visuals are worth sacrificing for the sake of practicality. 
+I’m aware some people detest the visuals of a dual stand which hides the second keyboard behind the first, however I feel visuals are worth sacrificing for the sake of function. 
 
 ---
 
