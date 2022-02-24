@@ -2,7 +2,7 @@
 title: 'Design Considerations for My Dual Keyboard Stands'
 date: 2022-02-22 00:00:00
 description: Things I've thought about for my double stand.
-featured_image: '/images/Photo_Blog/Double_Stand.jpg'
+featured_image: '/images/Photo_Blog/Double_Stand.jpeg'
 ---
 
 <div class="gallery" data-columns="2">
@@ -39,7 +39,7 @@ A current advantage of my design is the small form-factor; people can now keep t
 ---
 
 <div class="gallery2" data-columns="1">
-<img src="/images/Photo_Blog/Double_Stand_C.jpg">
+<img src="/images/Photo_Blog/Double_Stand_C.jpeg">
 <p>The final acrylic design is much more compact than the initial design.</p>
 </div>
 
@@ -69,12 +69,12 @@ A few advantages my current design has, as opposed to a larger design are:
 
 The points above are extremely important and desirable because it means I can offer customers a more affordable product.
 
-I’ve tried my best to optimize wherever possible because I understand some customers are simply after "X item to serve Y purpose at a low cost". 
+I’ve tried my best to optimize where possible because I understand some customers are simply after "X item to serve Y purpose at a low cost". 
 					
 ---
 ### Cardboard Prototypes of My Inital Design ###
 
 <div class="gallery" data-columns="2">
-	<img src="/images/Photo_Blog/Double_Stand_A.jpg">
-	<img src="/images/Photo_Blog/Double_Stand_D.jpg">
+	<img src="/images/Photo_Blog/Double_Stand_A.jpeg">
+	<img src="/images/Photo_Blog/Double_Stand_D.jpeg">
 </div>
