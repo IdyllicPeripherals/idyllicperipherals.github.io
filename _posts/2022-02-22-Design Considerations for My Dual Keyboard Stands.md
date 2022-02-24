@@ -61,7 +61,7 @@ For better or worse, I’m blessed with a pretty good Standard of Living here in
 
 Pricing involves multiple factors; however in its simplest, machine-processing time, material cost, and labour are major influencers. 
 
-I can confirm a few advantages my current design has, as opposed to a larger design:
+A few advantages my current design has, as opposed to a larger design are:
 
 * Faster processing times on the laser machine 
 * Uses less materials -> Less surface area -> Efficient nesting options
