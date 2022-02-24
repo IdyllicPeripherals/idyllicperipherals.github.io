@@ -56,7 +56,7 @@ It’s completely understandable for a customer to hold little regard for the in
 
 					
 ---
-### Image References ###
+### Cardboard Prototypes of My Inital Design ###
 
 <div class="gallery" data-columns="2">
 	<img src="/images/Photo_Blog/Double_Stand_A.jpg">
