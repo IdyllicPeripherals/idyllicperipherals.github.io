@@ -68,7 +68,8 @@ A few advantages my current design has, as opposed to a larger design are:
 * Easier and quicker to handle + pack
 
 The points above are extremely desirable because it means I can offer a “more affordable” product to the customer.
-It’s completely understandable for someone to hold little regard for the intangibles, and instead simply want X item to serve Y purpose at a low cost, which is why I’ve tried my best to optimize wherever possible.
+
+I’ve tried my best to optimize wherever possible because I understand some customers are simply after "X item to serve Y purpose at a low cost". 
 					
 ---
 ### Cardboard Prototypes of My Inital Design ###
