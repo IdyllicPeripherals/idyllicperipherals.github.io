@@ -37,9 +37,9 @@ Though this means the overall cost increases, I believe that their abundance on 
 
 **[https://imgur.com/a/1gW53nO](https://imgur.com/a/1gW53nO){:target="_blank"}**
 
-### Buy Now:
+### Buy It Now:
 
-**[Coming Soon](){:target="_blank"}**
+**[Check Out the Listing Here](https://dailyclack.com/products/double-tier-stand){:target="_blank"}**
 
 --- 
 
