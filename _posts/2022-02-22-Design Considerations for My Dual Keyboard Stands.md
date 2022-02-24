@@ -1,5 +1,5 @@
 ---
-title: 'Design Considerations for My Dual Stands'
+title: 'Design Considerations for My Dual Keyboard Stands'
 date: 2022-02-22 00:00:00
 description: Things I've thought about for my double stand.
 featured_image: '/images/Photo_Blog/Double_Stand.jpg'
