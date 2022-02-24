@@ -13,30 +13,47 @@ featured_image: '/images/Photo_Blog/Double_Stand.jpg'
 ---
 
 ### Aesthetics
+{% comment %}**_How often will someone be looking at the side profile of the stand, shouldn’t focus be on the two beautiful keyboards on display?_** {% endcomment %}
+
 Initially I wanted my design to be a simple shape, flat without any “points and peaks”. However, for this design to happen, the second display ledge cannot be lower than where the first ledge ends. 
 
 While this isn’t a problem on its own, it leads to some future predicaments for both me as the producer, and customers as the end-user. Ultimately, I decided to completely re-evaluate my approach and abandon the idea of a simple shaped Double Stand. 
 
 I’m conscious some people detest the visuals of a dual stand which hides the 2nd keyboard behind the 1st, however I feel visuals are worth sacrificing for the sake of practicality. 
 
+---
+
+>###### _"How often will someone be looking at the side profile of a stand, shouldn’t focus be on the two beautiful keyboards on display?"_
+
+---
+
 ### Practicality
-**_What value does a double stand provide, that two singular stands cannot?_**
+{% comment %}**_What value does a double stand provide, that two singular stands do not?_**{% endcomment %}
 
 Currently, an advantage of my Double Stand design is it's small form-factor; People can now keep two keyboards in a space which would normally only fit one. I believe that it is important to consider the end-users "use-case" and I should try to accommodate their needs where possible. While there isn't a standard size for a shelf, by keeping my design small, I open up more opportunities for places which can fit my Double Stand. The Double Stand has a depth of 20cm, which is as compact as I could get without too many compromises. 
+
+---
+
+>###### "_What value does a double stand provide, that two singular stands do not?"_
+
+---
 
 <div class="gallery2" data-columns="1">
 <img src="/images/Photo_Blog/Double_Stand_C.jpg">
 <p>The final acrylic design is much more compact than the initial design.</p>
 </div>
 
-**_What's the value of a display piece that can't actually fit in the area you want to display it?_**
+{% comment %}**_What's the value of a display piece that can't actually fit in the area you want to display it?_**{% endcomment %}
 
 After a trip to IKEA, the book shelves I’ve measured are between 20cm and 30cm in depth. For additional reference, a vertical A4 sheet of paper is 21cm in width; I think it’s fair to say around 21cm is a good reference point to use for the depth of shelving unit. 
 
 If I’m displaying two of my beloved, >$1,000 keyboards on a shelf, an overhanging keyboard stand is not an option, the stand needs to be smaller than the shelf. I do not want to risk any accidental bumps or knocks.
 
-**_How often will someone be looking at the side profile of the stand, shouldn’t focus be on the two beautiful keyboards on display?_**
+---
 
+>###### "_What's the point of a display piece that can't actually fit in the space you want to display it?"_
+
+---
 
 ### Affordability
 
