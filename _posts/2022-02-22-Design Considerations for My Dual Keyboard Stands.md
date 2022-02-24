@@ -45,7 +45,7 @@ A current advantage of my design is the small form-factor; people can now keep t
 
 {% comment %}**_What's the value of a display piece that can't actually fit in the area you want to display it?_**{% endcomment %}
 
-After a trip to IKEA, the book shelves I’ve measured are between 20cm and 30cm in depth. For additional reference, a vertical A4 sheet of paper is 21cm in width; I think it’s fair to say around 21cm is a good reference point to use for the depth of shelving unit. 
+After a trip to IKEA, the book shelves I’ve measured are between 20cm and 30cm in depth. For additional reference, a vertical A4 sheet of paper is 21cm in width; I think it’s reasonable to say ~21cm is a good reference point to use for the depth of shelf. 
 
 If I’m displaying two of my beloved, >$1,000 keyboards on a shelf, an overhanging keyboard stand is not an option, the stand needs to be smaller than the shelf. I do not want to risk any accidental bumps or knocks.
 
