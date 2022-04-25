@@ -43,7 +43,7 @@ featured_image: '/images/Photo_Blog/DSC_1119.jpg'
 #### Acrylic Layers
 - Have an adequate working space. The more table space the better.
 - Acrylic Layers can snap easily. Handle with care, and take your time peeling the protective film. 
-- Build from the bottom-upwards. 
+- Build from the bottom-upwards (refer to below "Build Guide with Pictures"). 
 - Don’t start peeling and building the case till the PCB and Plate are soldered together. This minimizes the time for exposed acrylic to accumulate dust. 
 - Wiping down each layer of acrylic is recommended to minimize dust and the risk of ElectroStatic Discharge (EST). 
 - Some surfaces have protective film on both sides. Acrylic with brown-film only has protection on 1 side. 
