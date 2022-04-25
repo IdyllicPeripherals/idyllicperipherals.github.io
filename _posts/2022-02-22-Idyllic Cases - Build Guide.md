@@ -245,5 +245,9 @@ Carefuly straighten the acrylic layers before screwing in the PC screws.
 
 Your case is now built!
 
+Thank you for the support, if you have any questions or need more advice please send me an email.
+
+Email: ***idyllic@acrylicperipherals.com***
+
 ---
 
