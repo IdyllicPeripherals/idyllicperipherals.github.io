@@ -157,7 +157,7 @@ Remember to flip the layers over and keep the pieces "upside-down".
 
 The last piece should be the smallest.
  
-We can now begin removing the protective film! However, we will do this layer-by-layer.
+We can now begin removing the protective film, however, we will do this layer-by-layer.
 
 ---
 
@@ -191,7 +191,9 @@ Install one bumpon on the top surface. The USB port rests on this piece.
 
 ### Reassembly and Removing Film - Main Case - M2.5 Hex Nuts
 
-Once you reach the layer with Hexagonal cutouts, add the M2.5 Hex Nuts respective of the screws in the plate. If your plate only has four outer screws, add only four nuts in the outer locations. 
+Once you reach the layer with Hexagonal cutouts, add the M2.5 Hex Nuts respective of the screws in the plate. 
+
+**Alice Builds:** If your plate only has four outer screws attatched, only add four nuts in the outer cutout locations. 
 
 <div class="gallery2" data-columns="1">
 <img src="/images/Photo_Blog/DSC_1161.jpg">
@@ -207,9 +209,11 @@ Once you reach the layer with Hexagonal cutouts, add the M2.5 Hex Nuts respectiv
 
 Once we reach the layer with "etched circles", it is time to install the plate.
 
+**Alice Builds:** 
+
 The USB Port goes **underneath** the Acrylic, while the  plate and screws go **on-top.**
 
-Add two O-rings at the front of the case. These do not need screws. 
+Add two O-Rings at the front of the case. These do not need screws. 
 
 <div class="gallery2" data-columns="1">
 <img src="/images/Photo_Blog/DSC_1166.jpg">
