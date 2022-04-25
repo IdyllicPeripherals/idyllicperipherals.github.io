@@ -23,13 +23,13 @@ featured_image: '/images/Photo_Blog/DSC_1119.jpg'
 * Size - M2.5
 * Colour - Silver
 * Tool - Hex 1.5 screwdriver 
-* Notes - I recommended to loosely screw this part into the nut for a bouncier typing experience. Avoid over-tightening 
+* Notes - This screws into a metal nut hidden inside the case. For a softer typing experience, do not over-tightening. 
 
 **Countersunk Screw** 
 * Size - M2 
 * Colour - Silver
 * Tool - Hex 1.3 screwdriver (not necessary)
-* Notes - Can be left on and does not need to be unscrewed. 
+* Notes - These can be left untouched and don't need to be unscrewed for assesmbly. 
 
 ---
 
@@ -46,7 +46,7 @@ featured_image: '/images/Photo_Blog/DSC_1119.jpg'
 - Build from the bottom-upwards. 
 - Don’t start peeling and building the case till the PCB and Plate are soldered together. This minimizes the time for exposed acrylic to accumulate dust. 
 - Wiping down each layer of acrylic is recommended to minimize dust and the risk of ElectroStatic Discharge (EST). 
-- Some surfaces have protective film on both sides. Acrylic with brown films only has protection on 1 side. 
+- Some surfaces have protective film on both sides. Acrylic with brown-film only has protection on 1 side. 
 - To make the peeling process easier, tweezers or a hobby blade are convenient to use. Sometimes sticky-tape can also be used to help pull film off.
 - The plate also has protective film that needs removing. 
 
