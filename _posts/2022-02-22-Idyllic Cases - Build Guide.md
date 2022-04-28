@@ -45,7 +45,8 @@ featured_image: '/images/Photo_Blog/DSC_1119.jpg'
 - Acrylic Layers can snap easily. Handle with care, and take your time peeling the protective film. 
 - Build from the bottom-upwards (refer to below "Build Guide with Pictures"). 
 - Don’t start peeling and building the case till the PCB and Plate are soldered together. This minimizes the time for exposed acrylic to accumulate dust. 
-- Wiping down each layer of acrylic is recommended to minimize dust and the risk of ElectroStatic Discharge (EST). 
+- Do not wipe with isopropyl alcohol. This damages the acrylic and causes it to fracture. 
+- Wiping down each layer of acrylic with a damp cloth is recommended to minimize dust and the risk of ElectroStatic Discharge (EST). 
 - Some surfaces have protective film on both sides. Acrylic with brown-film only has protection on 1 side. 
 - To make the peeling process easier, tweezers or a hobby blade are convenient to use. Sometimes sticky-tape can also be used to help pull film off.
 - The plate also has protective film that needs removing. 
