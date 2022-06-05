@@ -1,9 +1,26 @@
 ---
 title: 'Daily Clack Beginner Bundle'
 date: 2022-06-05 00:00:00
-description: This page is a demo that shows everything you can do inside a portfolio and blog posts.
+description: Looking inside the Daily Clack Beginner Tool Bundle.
 featured_image: '/images/Photo_Blog/Beginner_Bundle_2.jpg'
----
+--- 
+
+I am fortunate enough to have been given the opportunity to help Daily Clack produce a keyboard starter pack for newcomers to the hobby. 
+
+By having some essential tools all in one place, people can now spend less time searching where to source the simple staples they need.  
+
+**The Beginner Tool Bundle Includes:** 
+* Plastic Storage Container
+* DC Anodized Switch Opener
+* 5ml Silicone Oil - 1000cst
+* Straight Brushes
+* Triangle Brush
+* 2-in-1 - Puller
+* Stem Holder
+* 1ml Syringe
+* Tweezer
+
+--- 
 
 ### Storage Container
 An easy to open, easy to close, way to store all your tools. 
