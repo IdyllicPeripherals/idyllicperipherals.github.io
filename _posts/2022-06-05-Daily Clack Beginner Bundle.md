@@ -70,8 +70,8 @@ Comfortable handle, slightly larger in size and has a bit more weight than the s
 It's shape helps stop it from rolling away and it comes with useful little cap to protect the bristles from dust and damage when not in use.  
 
 <div class="gallery" data-columns="2">
-	<img src="/images/Photo_Blog/Brush.jpg">
 	<img src="/images/Photo_Blog/Brush_2.jpg">
+	<img src="/images/Photo_Blog/Brush.jpg">
 </div>
 
 ---
