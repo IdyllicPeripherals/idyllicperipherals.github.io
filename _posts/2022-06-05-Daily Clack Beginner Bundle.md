@@ -21,7 +21,7 @@ The Switch Opener will work with both MX and Wing-latch style switches.
 
 Position the switch correctly, before gently pushing downwards. 
 
-<div class="gallery1" data-columns="2">
+<div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Blog/Switch_Opener_MX_Open.jpg">
 </div>
 
@@ -66,13 +66,14 @@ Some examples are:
 
 ### Triangular Brush
 **Please wash and rinse the bristles of all the brushes before use.**
-Comfortable handle, slightly larger in size and has a bit more weight than the straight brushes. 
-It's shape helps stop it from rolling away and it comes with useful little cap to protect the bristles from dust and damage when not in use.  
+This brush has a comfortable handle and is slightly larger in size than the straight brushes. 
+It's shape also helps it not rolling away when placed on a table. 
 
 <div class="gallery" data-columns="2">
 	<img src="/images/Photo_Blog/Brush_2.jpg">
 	<img src="/images/Photo_Blog/Brush.jpg">
 </div>
+All brushes come with a useful little cap to protect the bristles from collecting dust when not in use.  
 
 ---
 
