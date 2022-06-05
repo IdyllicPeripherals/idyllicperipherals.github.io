@@ -137,7 +137,7 @@ Examples:
 ---
 
 ### Stem Holder
-A tool like this is perfect for holding switch stems and makes lubing them so much easier. Press and hold too open the clutch; release to grip. 
+A tool like this is perfect for holding switch stems and makes lubing them so much easier. Press and hold to open the clutch; release to grip. 
 
 You no longer need to fear finger cramps!  
 
