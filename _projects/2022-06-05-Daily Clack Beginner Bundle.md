@@ -125,10 +125,10 @@ The bristles of these brushes perfectly match your switch stems and housing rail
 	<img src="/images/Photo_Blog/Brush_4.jpg">
 </div>
 
-We've given you three brushes so you can allocated different ones for different uses. 
+We've given you three brushes so you can allocate different ones for different uses. 
 
 Examples: 
-* Oils - Dielectric Grease - Krtyox
+* Oils - Dielectric Grease - Krytox
 * Stabs - Springs - Switch Housing
 * Ect - Ect - Ect
 
