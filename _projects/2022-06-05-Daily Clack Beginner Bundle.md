@@ -137,7 +137,7 @@ Examples:
 ---
 
 ### Stem Holder
-A tool like this is perfect for holding switch stems and makes lubing them so much easier. Press and hold the top open the clutch; release to grip. 
+A tool like this is perfect for holding switch stems and makes lubing them so much easier. Press and hold too open the clutch; release to grip. 
 
 You no longer need to fear finger cramps!  
 
@@ -145,7 +145,7 @@ You no longer need to fear finger cramps!
 	<img src="/images/Photo_Blog/Stem_Holder_Dustproof.jpg">
 	<img src="/images/Photo_Blog/Stem_Holder_MX.jpg">
 </div>
-Dustproof and Regular MX Style are both compatible with this Stem Holder. 
+Dustproof and regular MX Style are both compatible with this Stem Holder. 
 
 ---
 
