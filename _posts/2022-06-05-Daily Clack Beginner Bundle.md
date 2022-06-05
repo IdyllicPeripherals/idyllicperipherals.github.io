@@ -87,9 +87,9 @@ You may need to also wiggle the East and West of the switch.
 ### Tweezer
 Useful tool to help pick up and hold smaller sized pieces.
 Some examples are:
-Switch Housing
-Springs
-Films
+* Switch Housing
+* Springs
+* Films
 
 <div class="gallery" data-columns="3">
 	<img src="/images/Photo_Blog/Tweeser_Film.jpg">
@@ -98,7 +98,7 @@ Films
 </div>
 
 ### Triangular Brush
-Please wash and rinse the bristles of all brushes before use. 
+**Please wash and rinse the bristles of all the brushes before use.**
 Comfortable handle, slightly larger in size and has a bit more weight than the straight brushes. 
 It's shape helps stop it from rolling away and it comes with useful little cap to protect the bristles from dust and damage when not in use.  
 
