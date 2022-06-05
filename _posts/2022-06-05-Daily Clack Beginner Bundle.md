@@ -50,42 +50,72 @@ You can throw in some horizontal rules too:
 ---
 
 ### Storage Container
+An easy to open, easy to close, way to store all your tools. A container like this is a great way to stay organised while also keeping the dust, fibers and pet hair out. 
 
 ### Switch Opener
+The Switch Opener will work with both MX and Wing-latch style switches.
 
 <div class="gallery" data-columns="3">
-	<img src="/images/Photo_Blog/Stem_Holder_Dustproof.jpg">
-	<img src="/images/Photo_Blog/Stem_Holder_MX.jpg">
 	<img src="/images/Photo_Blog/Switch_Opener.jpg">
 	<img src="/images/Photo_Blog/Switch_Opener_Kailh.jpg">
 	<img src="/images/Photo_Blog/Switch_Opener_MX.jpg">
+</div>
+
+Position the switch correctly, before gently pushing downwards. 
+
+<div class="gallery" data-columns="1">
 	<img src="/images/Photo_Blog/Switch_Opener_MX_Open.jpg">
-	<img src="/images/Photo_Blog/Switch_Puller.jpg">
-	<img src="/images/Photo_Blog/Tweeser_Film.jpg">
-	<img src="/images/Photo_Blog/Tweeser_Spring.jpg">
-	<img src="/images/Photo_Blog/Tweeser_Top.jpg">
-	<img src="/images/Photo_Blog/Wire_Puller.jpg">
 </div>
 
 ### Silicone Oil - 1000cst
-
-### Puller 2-in-1 
-
-### Tweezer
-
-### Triangular Brush
-
-### Stem Holder
-
-Here's a really neat custom feature we added – galleries:
-
+This locally-produced oil is for lubing the springs of your switches. Some prefer brushing it on directly, however, others also find it perfect for bag lubing. 
+The thickness and high viscosity of this oil helps it stick to surfaces longer and does a better job at removing spring "ping" and "crunch" than thinner alternatives.  
 <div class="gallery" data-columns="3">
-	<img src="/images/Photo_Blog/">
-	<img src="/images/Photo_Blog/">
-	<img src="/images/Photo_Blog/">
+
 </div>
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
+### Puller 2-in-1 
+Use gentle a side to side motion when pulling off keycaps. This minimises potential damage to the underside of the plastic. 
+The metal prongs are designer to make it easier for you to pull switches out of plates. Press and squeese the North and South of the switch, then pull upwards. 
+You may need to also wiggle the East and West of the switch. 
+
+<div class="gallery" data-columns="2">
+<img src="/images/Photo_Blog/Wire_Puller.jpg">
+<img src="/images/Photo_Blog/Switch_Puller.jpg">
+</div>
+
+### Tweezer
+Useful tool to help pick up and hold smaller sized pieces.
+Some examples are:
+Switch Housing
+Springs
+Films
+
+<div class="gallery" data-columns="3">
+	<img src="/images/Photo_Blog/Tweeser_Film.jpg">
+	<img src="/images/Photo_Blog/Tweeser_Spring.jpg">
+	<img src="/images/Photo_Blog/Tweeser_Top.jpg">
+</div>
+
+### Triangular Brush
+Please wash and rinse the bristles of all brushes before use. 
+Comfortable handle, slightly larger in size and has a bit more weight than the straight brushes. 
+It's shape helps stop it from rolling away and it comes with useful little cap to protect the bristles from dust and damage when not in use.  
+
+<div class="gallery" data-columns="2">
+	<img src="/images/Photo_Blog/Brush.jpg">
+	<img src="/images/Photo_Blog/Brush2.jpg">
+</div>
+
+### Stem Holder
+A tool like this is perfect for holding switch Stem and makes lubing them so much easier. Press and hold the top open the clutch; release to grip. 
+You no longer need to fear accidently dropping and searching for those loose stems.  
+Dustproof and Regular MX Style are both compatiable with this Stem Holder. 
+
+<div class="gallery" data-columns="2">
+	<img src="/images/Photo_Blog/Stem_Holder_Dustproof.jpg">
+	<img src="/images/Photo_Blog/Stem_Holder_MX.jpg">
+</div>
 
 ---
 
