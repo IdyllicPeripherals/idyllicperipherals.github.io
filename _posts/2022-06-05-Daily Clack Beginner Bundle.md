@@ -11,7 +11,7 @@ An easy to open, easy to close, way to store all your tools. A container like th
 ---
 
 ### Switch Opener
-The Switch Opener will work with both MX and Wing-latch style switches.
+The Switch Opener will work with both MX and Wing-latch style switches. 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/Photo_Blog/Switch_Opener.jpg">
