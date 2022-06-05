@@ -37,8 +37,11 @@ The thickness and high viscosity of this oil helps it stick to surfaces longer a
 
 ---
 
-### Puller 2-in-1 
+### 2-in-1 Puller
+**Keycap Puller**
 Use gentle a side to side motion when pulling off keycaps. This minimises potential damage to the underside of the plastic. 
+
+**Switch Puller** 
 The metal prongs are designer to make it easier for you to pull switches out of plates. Press and squeese the North and South of the switch, then pull upwards. 
 You may need to also wiggle the East and West of the switch. 
 
