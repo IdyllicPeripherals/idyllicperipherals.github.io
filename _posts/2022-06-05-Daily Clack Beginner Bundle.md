@@ -1,12 +1,13 @@
 ---
 title: 'Daily Clack Beginner Bundle'
 date: 2022-06-05 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: This page is a demo that shows everything you can do inside a portfolio and blog posts.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ### Storage Container
-An easy to open, easy to close, way to store all your tools. A container like this is a great way to stay organised while also keeping the dust, fibers and pet hair out. 
+An easy to open, easy to close, way to store all your tools. 
+A container like this is a great way to stay organized while also keeping the dust and pet hair out. 
 
 ---
 
@@ -28,7 +29,8 @@ Position the switch correctly, before gently pushing downwards.
 ---
 
 ### Silicone Oil - 1000cst
-This locally-produced oil is for lubing the springs of your switches. Some prefer brushing it on directly, however, others also find it perfect for bag lubing. 
+This locally-produced oil is for lubing the springs of your switches. 
+Some prefer brushing it on directly, however, it is also perfect for bag lubing. Use a generous amount to make sure the spring is coated completely. 
  
 <div class="gallery" data-columns="3">
 
@@ -39,10 +41,10 @@ The thickness and high viscosity of this oil helps it stick to surfaces longer a
 
 ### 2-in-1 Puller
 **Keycap Puller**
-Use gentle a side to side motion when pulling off keycaps. This minimises potential damage to the underside of the plastic. 
+Use a gentle side to side motion when pulling off keycaps. This minimizes potential damage to the underside of the plastic. 
 
 **Switch Puller** 
-The metal prongs are designer to make it easier for you to pull switches out of plates. Press and squeese the North and South of the switch, then pull upwards. 
+The metal prongs are designed to make it easier for you to pull switches out of plates. Press and squeeze the North and South of the switch, then pull upwards. 
 You may need to also wiggle the East and West of the switch. 
 
 <div class="gallery" data-columns="2">
@@ -70,7 +72,7 @@ Some examples are:
 ### Triangular Brush
 **Please wash and rinse the bristles of all the brushes before use.**
 This brush has a comfortable handle and is slightly larger in size than the straight brushes. 
-It's shape also helps it not rolling away when placed on a table. 
+Its shape also helps it not roll away when placed on a table. 
 
 <div class="gallery" data-columns="2">
 	<img src="/images/Photo_Blog/Brush_2.jpg">
@@ -81,15 +83,14 @@ All brushes come with a useful little cap to protect the bristles from collectin
 ---
 
 ### Stem Holder
-A tool like this is perfect for holding switch Stem and makes lubing them so much easier. Press and hold the top open the clutch; release to grip. 
+A tool like this is perfect for holding switch Stems and makes lubing them so much easier. Press and hold the top open the clutch; release to grip. 
 
-You no longer need to fear accidently dropping and searching for those loose stems.  
+You no longer need to fear accidentally dropping and searching for those loose stems.  
 
 <div class="gallery" data-columns="2">
 	<img src="/images/Photo_Blog/Stem_Holder_Dustproof.jpg">
 	<img src="/images/Photo_Blog/Stem_Holder_MX.jpg">
 </div>
-Dustproof and Regular MX Style are both compatiable with this Stem Holder. 
+Dustproof and Regular MX Style are both compatible with this Stem Holder. 
 
 ---
-
