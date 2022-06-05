@@ -7,7 +7,7 @@ featured_image: '/images/Photo_Blog/Beginner_Bundle_2.jpg'
 
 I am fortunate enough to have been given the opportunity to help Daily Clack produce a keyboard starter pack for newcomers to the hobby. 
 
-By having some essential tools all in one place, people can now spend less time searching where to source the simple staples they need.  
+By having some essential tools all in one place, people can now spend less time searching for where to source the simple staples they need.  
 
 **The Beginner Tool Bundle Includes:** 
 * Plastic Storage Container
@@ -113,12 +113,20 @@ The bristles of these brushes perfectly match your switch stems and housing rail
 	<img src="/images/Photo_Blog/Brush_3.jpg">
 	<img src="/images/Photo_Blog/Brush_4.jpg">
 </div>
+
+We've given you three brushes so you can allocated different ones for different uses. 
+
+Examples: 
+* Oils - Dielectric Grease - Krtyox
+* Stabs - Springs - Switch Housing
+* Ect - Ect - Ect
+
 ---
 
 ### Stem Holder
 A tool like this is perfect for holding switch stems and makes lubing them so much easier. Press and hold the top open the clutch; release to grip. 
 
-You no longer need to fear accidentally dropping and searching for those loose stems.  
+You no longer need to fear finger cramps!  
 
 <div class="gallery" data-columns="2">
 	<img src="/images/Photo_Blog/Stem_Holder_Dustproof.jpg">
@@ -127,3 +135,7 @@ You no longer need to fear accidentally dropping and searching for those loose s
 Dustproof and Regular MX Style are both compatible with this Stem Holder. 
 
 ---
+
+### Buy It Now
+
+**[Check Out the Listing Here](https://dailyclack.com/products/beginner-bundle-toolkit){:target="_blank"}**
