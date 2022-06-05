@@ -48,6 +48,28 @@
 	}
 }
 
+.gallery3 {
+	position: relative;
+	margin: 20px auto;
+	max-width:35%;
+
+	@include mq(tabletp) {
+		margin: 30px auto;
+	}
+
+	@include mq(tabletl) {
+
+	}
+
+	@include mq(laptop) {
+		margin: 40px auto;
+	}
+
+	&:first-child {
+		margin-top: 0;
+	}
+}
+
 .gallery--on {
 	visibility: visible;
 }
