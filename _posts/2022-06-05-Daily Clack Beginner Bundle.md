@@ -46,6 +46,7 @@ You may need to also wiggle the East and West of the switch.
 <img src="/images/Photo_Blog/Wire_Puller.jpg">
 <img src="/images/Photo_Blog/Switch_Puller.jpg">
 </div>
+
 ---
 
 ### Tweezer
@@ -60,6 +61,7 @@ Some examples are:
 	<img src="/images/Photo_Blog/Tweeser_Spring.jpg">
 	<img src="/images/Photo_Blog/Tweeser_Top.jpg">
 </div>
+
 ---
 
 ### Triangular Brush
