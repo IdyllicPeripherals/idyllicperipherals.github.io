@@ -2,13 +2,19 @@
 title: 'Daily Clack Beginner Bundle'
 date: 2022-06-05 00:00:00
 description: This page is a demo that shows everything you can do inside a portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/Photo_Blog/Beginner_Bundle_2.jpg'
 ---
 
 ### Storage Container
 An easy to open, easy to close, way to store all your tools. 
 A container like this is a great way to stay organized while also keeping the dust and pet hair out. 
 
+<div class="gallery" data-columns="4">
+	<img src="/images/Photo_Blog/Beginner_Bundle_0.jpg">
+	<img src="/images/Photo_Blog/Beginner_Bundle.jpg">
+	<img src="/images/Photo_Blog/Beginner_Bundle_2.jpg">
+	<img src="/images/Photo_Blog/Beginner_Bundle_3.jpg">
+</div>
 ---
 
 ### Switch Opener
@@ -30,7 +36,9 @@ Position the switch correctly, before gently pushing downwards.
 
 ### Silicone Oil - 1000cst
 This locally-produced oil is for lubing the springs of your switches. 
-Some prefer brushing it on directly, however, it is also perfect for bag lubing. Use a generous amount to make sure the spring is coated completely. 
+Some prefer brushing it on directly, however, it is also perfect for bag lubing. 
+
+Use a generous amount to make sure the spring is coated completely. 
  
 <div class="gallery" data-columns="3">
 
@@ -56,6 +64,7 @@ You may need to also wiggle the East and West of the switch.
 
 ### Tweezer
 A useful tool to help pick up and hold smaller sized pieces.
+
 Some examples are:
 * Films
 * Springs
@@ -71,15 +80,22 @@ Some examples are:
 
 ### Triangular Brush
 **Please wash and rinse the bristles of all the brushes before use.**
+
 This brush has a comfortable handle and is slightly larger in size than the straight brushes. 
-Its shape also helps it not roll away when placed on a table. 
+
+The shape also helps prevent it from rolling away when placed on a table. All brushes come with a useful little cap to protect the bristles from collecting dust when not in use.  
 
 <div class="gallery" data-columns="2">
 	<img src="/images/Photo_Blog/Brush_2.jpg">
 	<img src="/images/Photo_Blog/Brush.jpg">
 </div>
-All brushes come with a useful little cap to protect the bristles from collecting dust when not in use.  
 
+The bristles of these brushes perfectly match your switch stems and housing rails. 
+
+<div class="gallery" data-columns="2">
+	<img src="/images/Photo_Blog/Brush_3.jpg">
+	<img src="/images/Photo_Blog/Brush_4.jpg">
+</div>
 ---
 
 ### Stem Holder
