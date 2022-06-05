@@ -21,7 +21,7 @@ The Switch Opener will work with both MX and Wing-latch style switches.
 
 Position the switch correctly, before gently pushing downwards. 
 
-<div class="gallery" data-columns="2">
+<div class="gallery1" data-columns="2">
 	<img src="/images/Photo_Blog/Switch_Opener_MX_Open.jpg">
 </div>
 
