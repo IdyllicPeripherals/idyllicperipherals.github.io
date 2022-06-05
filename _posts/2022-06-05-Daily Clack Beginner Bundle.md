@@ -55,7 +55,7 @@ You may need to also wiggle the East and West of the switch.
 ---
 
 ### Tweezer
-Useful tool to help pick up and hold smaller sized pieces.
+A useful tool to help pick up and hold smaller sized pieces.
 Some examples are:
 * Films
 * Springs
@@ -83,7 +83,7 @@ All brushes come with a useful little cap to protect the bristles from collectin
 ---
 
 ### Stem Holder
-A tool like this is perfect for holding switch Stems and makes lubing them so much easier. Press and hold the top open the clutch; release to grip. 
+A tool like this is perfect for holding switch stems and makes lubing them so much easier. Press and hold the top open the clutch; release to grip. 
 
 You no longer need to fear accidentally dropping and searching for those loose stems.  
 
