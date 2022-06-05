@@ -19,7 +19,7 @@ The Switch Opener will work with both MX and Wing-latch style switches.
 
 Position the switch correctly, before gently pushing downwards. 
 
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="2">
 	<img src="/images/Photo_Blog/Switch_Opener_MX_Open.jpg">
 </div>
 
@@ -60,7 +60,7 @@ It's shape helps stop it from rolling away and it comes with useful little cap t
 
 <div class="gallery" data-columns="2">
 	<img src="/images/Photo_Blog/Brush.jpg">
-	<img src="/images/Photo_Blog/Brush2.jpg">
+	<img src="/images/Photo_Blog/Brush_2.jpg">
 </div>
 
 ### Stem Holder
