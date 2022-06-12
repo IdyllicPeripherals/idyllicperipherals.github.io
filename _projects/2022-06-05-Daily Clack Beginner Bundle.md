@@ -149,6 +149,31 @@ Dustproof and regular MX Style are both compatible with this Stem Holder.
 
 ---
 
+### Syringe 
+This Syringe has a capacity of 1mL. Realistically, you won't ever need to fill it up completely.
+
+Please note that this Luer Slip styled tip is slightly wider than metal dispensing tips; it won't be suitable for filling hard to reach places. 
+Nonetheless, it can make injecting thicker greases like Dielectric or Krytox XHT-BDZ a lot easier.
+
+<div class="gallery" data-columns="2">
+	<img src="/images/Photo_Blog/Syringe.jpg">
+	<img src="/images/Photo_Blog/Syringe_2.jpg"> 
+</div>
+
+There are many ways to use this syringe; find what works for you.
+
+Examples: 
+* Applying small, controlled amounts of Krytox Lube directly onto your brush 
+* Injecting	 Lube into stabiliser parts
+
+<div class="gallery" data-columns="2">
+	<img src="/images/Photo_Blog/Syringe_4.jpg"> 
+	<img src="/images/Photo_Blog/Syringe_3.jpg">
+</div>
+
+
+--- 
+
 ### Buy It Now
 
 **[Check Out the Listing Here](https://dailyclack.com/products/beginner-bundle-toolkit){:target="_blank"}**
