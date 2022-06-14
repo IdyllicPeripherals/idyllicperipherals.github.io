@@ -61,7 +61,7 @@ Position the switch correctly, before gently pushing downwards.
 ---
 
 ### Silicone Oil - 1000cst
-This locally-produced oil is for lubing the springs of your switches. 
+This low-cost oil is for lubing the springs of your switches. 
 Some prefer brushing it on directly, however, it is also perfect for bag lubing. 
 
 Use a generous amount to make sure the spring is coated completely. 
@@ -71,7 +71,7 @@ Use a generous amount to make sure the spring is coated completely.
 </div>
 The thickness and high viscosity of this oil helps it stick to surfaces longer and does a better job at removing spring "ping" and "crunch" than thinner alternatives. 
 
-Admittedly, this isn't a tool; I just couldn't pass up the opportunity to include something so suitable which also happens to be Australia made. 
+Admittedly, this isn't a tool; I just couldn't pass up the opportunity to include something so suitable and locally produced. 
 The oil was sourced from Flexichem in South Australia, they are a family owned chemical manufacturer which specialises in silicone products. 
 
 ---
