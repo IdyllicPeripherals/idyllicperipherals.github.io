@@ -71,7 +71,8 @@ Use a generous amount to make sure the spring is coated completely.
 </div>
 The thickness and high viscosity of this oil helps it stick to surfaces longer and does a better job at removing spring "ping" and "crunch" than thinner alternatives. 
 
-Admittedly, this isn't a tool; I just couldn't pass up the opportunity to include something so suitable and locally produced. 
+Admittedly, this isn't a tool; I just couldn't pass up the opportunity to include something so suitable. 
+
 The oil was sourced from Flexichem in South Australia, they are a family owned chemical manufacturer which specialises in silicone products. 
 
 ---
