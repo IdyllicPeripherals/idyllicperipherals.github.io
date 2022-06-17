@@ -17,19 +17,19 @@ featured_image: '/images/Photo_Projects/Metal.jpg'
 
 <div class="gallery" data-columns="4">
 	<img src="/images/Photo_Projects/Lube_Station_Metal.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_1.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_2.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_3.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_4.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_5.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_6.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_7.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_8.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_9.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_10.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_11.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_12.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_13.jpeg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_1.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_2.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_3.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_4.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_5.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_6.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_7.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_8.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_9.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_10.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_11.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_12.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal_13.jpg">
 </div> 
 
 
