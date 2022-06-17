@@ -16,8 +16,7 @@ featured_image: '/images/Photo_Projects/Metal.jpg'
 --- 
 
 <div class="gallery" data-columns="4">
-	<img src="/images/Photo_Projects/Lube_Station_Metal.jpeg">
-	<img src="/images/Photo_Projects/Lube_Station_Metal_1.jpg">
+	<img src="/images/Photo_Projects/Lube_Station_Metal.jpg">
 	<img src="/images/Photo_Projects/Lube_Station_Metal_2.jpg">
 	<img src="/images/Photo_Projects/Lube_Station_Metal_3.jpg">
 	<img src="/images/Photo_Projects/Lube_Station_Metal_4.jpg">
