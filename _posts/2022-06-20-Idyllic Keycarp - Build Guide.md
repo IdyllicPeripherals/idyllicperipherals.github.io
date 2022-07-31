@@ -125,6 +125,17 @@ Connect the JST cable from the daughterboard to the PCB.
 	<img src="/images/Photo_Blog/Keycarp_Build_0005.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0004.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0003.jpg">
+</div>
+
+---
+
+### Build Guide with Pictures - Main Case Teardown
+
+We are now up to the final three layers. Since these are the top pieces, any dust that gets trapped here will be visiable from the top.
+
+Use a microfiber cloth to clean and remove as much dust and as possible. Wearing new rubber gloves and using a damp cloth might also help — basically do whatever it takes to get the best result you can. I spend >5 minutes wiping each layer to make sure the acrylic is as clean as possible.
+
+<div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Blog/Keycarp_Build_0002.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0001.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0000.jpg">
