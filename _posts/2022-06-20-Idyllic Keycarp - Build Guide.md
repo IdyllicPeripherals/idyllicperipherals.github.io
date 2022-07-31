@@ -35,7 +35,7 @@ featured_image: '/images/Photo_Blog/Keycarp_Build_Guide.jpg'
 
 ### Build Guide with Pictures - Acrylic Risers and Bumpons
 
-Unbuilt, the board is wobble and unstable. However, this will quickly be fixed once we start building. 
+Unbuilt, the board is wobbly and unstable. However, this will quickly be fixed once we start building. 
 
 <div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Blog/Keycarp_Build_0035.jpg">
@@ -50,7 +50,7 @@ There are circles to help you locate where to apply them.
 
 ### Build Guide with Pictures - Plate and the PCB
 
-Before we get to the case, I recommend starting with the baic keyboard stuff. I.e. Soldering, Lubing Stabs, Testing PCB ect ect.
+Before we get to the case, I recommend starting with the basic keyboard stuff. i.e. soldering, lubing stabs, testing the PCB, ect.
 
 Only the Acrylic needs to be peeled; the Polypropylene plate does not need peeling.
 
@@ -65,7 +65,7 @@ Only the Acrylic needs to be peeled; the Polypropylene plate does not need peeli
 
 I prefer putting the switches into the plate first, before lowering it into the PCB.
 
-Use the support fork if you're having difficulties due to the soft plate.
+If you are having difficulties with the plate, use the included support fork.
 
 ---
 
@@ -89,9 +89,9 @@ Unscrew the case and begin to remove al the layers while keeping note of where e
 
 ---
 
-### Build Guide with Pictures - Main Case Teardown
+### Build Guide with Pictures - Main Case Assembly 
 
-We can begin to peel of the protective film once we reach the final layer.
+We can begin to peel off the protective film once we reach the final layer.
 
 Take your time peeling each layer; be considerate of dust and how you are handling the acrylic. 
 If you are not careful the acrylic can snap and/or you could injure yourself on a sharp edge.
@@ -99,17 +99,29 @@ If you are not careful the acrylic can snap and/or you could injure yourself on 
 <div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Blog/Keycarp_Build_0014.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0013.jpg">
+</div>
+
 Add the M2 nuts into the hexagonal cutouts.
+
+<div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Blog/Keycarp_Build_0012.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0011.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0010.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0009.jpg">
-Screw in the daughterboard. 
+</div>
+
+Install the daughterboard. 
+
+<div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Blog/Keycarp_Build_0008.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0007.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0006.jpg">
+</div>
+
 Grab your Plate and PCB; it's time to add it into the stack.
 Connect the JST cable from the daughterboard to the PCB.
+
+<div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Blog/Keycarp_Build_0005.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0004.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0003.jpg">
@@ -119,7 +131,6 @@ Connect the JST cable from the daughterboard to the PCB.
 </div>
 
 Screw the case back together; don't forget to install the remaining smaller bumpons on the underside of the case.
-
 
 ---
 
