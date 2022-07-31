@@ -2,7 +2,7 @@
 title: 'Idyllic Keycarp - Build Guide'
 date: 2022-06-20 00:00:00
 description: Special Magicarp Themed Mechanical Keyboard.
-featured_image: '/images/Photo_Blog/DSC_1119.jpg'
+featured_image: '/images/Photo_Blog/Keycarp_Build_Guide.jpg'
 ---
 
 <div class="gallery" data-columns="2">
