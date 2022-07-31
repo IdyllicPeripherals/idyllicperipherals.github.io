@@ -5,6 +5,26 @@ description: Special Magicarp Themed Mechanical Keyboard.
 featured_image: '/images/Photo_Blog/Keycarp_Build_Guide.jpg'
 ---
 
+### Checklist and Notes
+
+#### PCB
+- Check Stabilizers are installed and are functioning. 
+- Clip your switches into the plate and solder the switches into the PCB.
+
+#### Acrylic Layers
+- Have an adequate working space. The more table space the better.
+- Acrylic Layers can snap easily. Handle with care, and take your time peeling the protective film. 
+- Build from the bottom-upwards (refer to below "Build Guide with Pictures"). 
+- Don’t start peeling and building the case till the PCB and Plate are soldered together. This minimizes the time for exposed acrylic to accumulate dust. 
+- Do not wipe with isopropyl alcohol. This damages the acrylic and causes it to fracture. 
+- Wiping down each layer of acrylic with a damp cloth is recommended to minimize dust and the risk of ElectroStatic Discharge (EST). 
+- Some surfaces have protective film on both sides. Acrylic with brown-film only has protection on 1 side. 
+- To make the peeling process easier, tweezers or a hobby blade are convenient to use. Sometimes sticky-tape can also be used to help pull film off.
+
+---
+
+### Build Guide with Pictures - Step by Step
+
 <div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Blog/Keycarp_Build_0035.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0034.jpg">
