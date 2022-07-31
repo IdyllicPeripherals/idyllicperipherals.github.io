@@ -5,6 +5,12 @@ description: Special Magicarp Themed Mechanical Keyboard.
 featured_image: '/images/Photo_Blog/Keycarp_Build_Guide.jpg'
 ---
 
+<div class="gallery" data-columns="1">
+	<img src="/images/Photo_Blog/Keycarp_Build_Guide.jpg">
+</div>
+
+---
+
 ### Checklist and Notes
 
 #### PCB
