@@ -5,7 +5,7 @@ description: Special Magicarp Themed Mechanical Keyboard.
 featured_image: '/images/Photo_Blog/Keycarp_Build_Guide.jpg'
 ---
 
-<div class="gallery" data-columns="2">
+<div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Blog/Keycarp_Build_0035.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0034.jpg">
 	<img src="/images/Photo_Blog/Keycarp_Build_0033.jpg">
