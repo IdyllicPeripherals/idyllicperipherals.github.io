@@ -134,7 +134,7 @@ We are now up to the final three layers. Since these are the top pieces, any dus
 
 I spend >5 minutes wiping each layer to make sure the acrylic is as clean as possible.
 
-Do whatever it takes to get the best result you can remove as much dust and as possible. 
+Do whatever it takes to get the best result you can and remove as much dust as possible. 
 Examples: Wear rubber gloves, wash your hands with soapy water, use a damp microfiber cloth
 
 <div class="gallery2" data-columns="1">
