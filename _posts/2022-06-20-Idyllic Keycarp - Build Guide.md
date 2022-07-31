@@ -5,7 +5,7 @@ description: Special Magicarp Themed Mechanical Keyboard.
 featured_image: '/images/Photo_Blog/Keycarp_Build_Guide.jpg'
 ---
 
-<div class="gallery" data-columns="2">
+<div class="gallery2" data-columns="2">
 	<img src="/images/Photo_Blog/Keycarp_Build_Guide.jpg">
 </div>
 
@@ -18,7 +18,7 @@ featured_image: '/images/Photo_Blog/Keycarp_Build_Guide.jpg'
 - Clip your switches into the plate and solder the switches into the PCB.
 
 #### Acrylic Layers
-- Have an adequate working space. The more table space the better.
+- Have an adequate amount of working space. The more table space the better.
 - Acrylic Layers can snap easily. Handle with care, and take your time peeling the protective film. 
 - Build from the bottom-upwards (refer to below "Build Guide with Pictures"). 
 - Don’t start peeling and building the case till the PCB and Plate are soldered together. This minimizes the time for exposed acrylic to accumulate dust. 
@@ -73,7 +73,7 @@ featured_image: '/images/Photo_Blog/Keycarp_Build_Guide.jpg'
 
 Your case is now built!
 
-Thank you for the support, if you have any questions or need more advice please send me an email.
+Thank you for the support; if you have any questions or need more advice please send me an email.
 
 Email: ***idyllic@acrylicperipherals.com***
 
