@@ -128,11 +128,14 @@ Connect the JST cable from the daughterboard to the PCB.
 
 ---
 
-### Build Guide with Pictures - Main Case Teardown
+### Build Guide with Pictures - Removing all the dust from the final Layers
 
 We are now up to the final three layers. Since these are the top pieces, any dust that gets trapped here will be visiable from the top.
 
-Use a microfiber cloth to clean and remove as much dust and as possible. Wearing new rubber gloves and using a damp cloth might also help — basically do whatever it takes to get the best result you can. I spend >5 minutes wiping each layer to make sure the acrylic is as clean as possible.
+I spend >5 minutes wiping each layer to make sure the acrylic is as clean as possible.
+
+Do whatever it takes to get the best result you can remove as much dust and as possible. 
+Examples: Wear rubber gloves, wash your hands with soapy water, use a damp microfiber cloth
 
 <div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Blog/Keycarp_Build_0003.jpg">
