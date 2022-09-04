@@ -63,7 +63,7 @@ In this example:
 For all the Stands I sell, I assemble the base pieces to make life easier for the end-user. 
 
 Unfortunately, it is time consuming:
-1. Peel off the protiective film  
+1. Peel off the protective film  
 2. Align pieces in the correct orientation 
 3. Install 8x M3 Screws into the acrylic
 
