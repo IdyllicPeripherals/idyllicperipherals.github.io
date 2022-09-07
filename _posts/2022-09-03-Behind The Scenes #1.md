@@ -31,9 +31,9 @@ In this scenario, I need a sheet that is 22cm (H) X 60cm (L).
 
 ###  Cutting the Designs
 
-My Designer Stands have four different files that need to be cut. Depending on the colourway, I might need up to 4x different coloured sheets of material. 
+My Designer Stands have four different files that need to be cut. Depending on the colourway, I might need up to four different coloured sheets of material. 
 
-In this example:
+In this example I need three different pieces of material:
 * Right and Left Side Pieces - Matte Black
 * Top Base Piece - Mirror Blue
 * Bottom Base Piece - Gloss Black
@@ -62,7 +62,7 @@ In this example:
 
 For all the Stands I sell, I assemble the base pieces to make life easier for the end-user. 
 
-Unfortunately, it is time consuming:
+Admittedly , it is time consuming because there are several steps required:
 1. Peel off the protective film  
 2. Align pieces in the correct orientation 
 3. Install 8x M3 Screws into the acrylic
@@ -105,7 +105,7 @@ Packing and Counting:
 	<img src="/images/Photo_Blog/Idyllic_Stand_Process_26.jpg">
  </div>
 
-Once all the parts have been arranged, I finally get to wrap and pack everthing together. 
+Once all the parts have been arranged, I finally get to wrap and pack everything together. 
 
 In the future, I aim to have correctly sized boxes to package my Stands into. Currently, the total package weighs roughly 400g. 
 
