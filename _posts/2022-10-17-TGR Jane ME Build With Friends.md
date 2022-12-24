@@ -14,9 +14,9 @@ Monokei’s service was great and the keyboard arrived to me on October the 10th
 
 At this point, I didn’t have anything in-mind for the keyboard and was too busy with other things to make time for building. When it arrived, the initial decision was to let it rest in the Kaban for a while longer.
 
-Coincidently, around this time, EPBT Simple Ja R2 had completed production, and my IRL friend was excited to finally get her first GB keyset after waiting >1.5 years. Unfortunately, being relatively normal, she doesn’t own an array of keyboards, and therefore didn’t really have anything to put the keycaps on. 
+Coincidently, around this time, EPBT SimpleJa  R2 had completed production, and my IRL friend was excited to finally get her first GB keyset after waiting >1.5 years. Unfortunately, being relatively normal, she doesn’t own an array of keyboards, and therefore didn’t really have anything to put the keycaps on. 
 
-Curious to see the quality of the EPBT dye-sub, I offered to let her build and borrow the TGR Jane ME so she had something to put Simple Ja on. 
+Curious to see the quality of the EPBT dye-sub, I offered to let her build and borrow the TGR Jane ME. We both win in this situation; she has something to put SimpleJa onto, and I get my Jane V2 built.
 
 ---
 
@@ -27,7 +27,7 @@ The Build Plan:
 * Brass Plate
 * All Clacks – Stock (Didn't have time to prepare anything better)
 * TX Stabilisers – MCG 129 Lube
-* EPBT Simple Ja R2
+* EPBT SimpleJa R2
 
 Building a keyboard is relatively simple; what’s the worst that could happen? 
 
@@ -86,7 +86,7 @@ How do people struggle with Switches, Plates and PCBs.
 
 No skill issues here ¯\\_(ツ)_/¯
 
-### Opening Up the Jane V2:
+### Opening the Jane V2:
 <div class="gallery" data-columns="2">
 <img src="/images/Photo_Blog/Jane/DSC_1330.jpg">
 <img src="/images/Photo_Blog/Jane/DSC_1331.jpg">
@@ -100,7 +100,7 @@ No skill issues here ¯\\_(ツ)_/¯
 
 Trying to remove the backplate was actually pretty troublesome; the tool, being made from plastic, was relatively soft and easily deformed. The magnets were too strong, and it was very difficult to generate enough force to leverage the backplate upwards. 
 
-### Opening Up the Jane V2 Continued:
+### Opening the Jane V2 Continued:
 <div class="gallery" data-columns="2">
 <img src="/images/Photo_Blog/Jane/DSC_1338.jpg">
 <img src="/images/Photo_Blog/Jane/DSC_1339.jpg">
