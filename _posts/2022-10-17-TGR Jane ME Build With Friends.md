@@ -12,11 +12,11 @@ On Wednesday the 28th of September, I was fortunate enough to find an invoice fo
 
 Monokei’s service was great and the keyboard arrived to me on October the 10th after being in transit with DHL for a 4 business days.
 
-At this point I didn’t have anything in-mind for the keyboard and was too busy with other things to make time for building. When it arrived, the decision was to let it rest in the Kaban for a while longer.
+At this point I didn’t have anything in-mind for the keyboard and was too busy with other things to make time for building. When it arrived, the initial decision was to let it rest in the Kaban for a while longer.
 
 Coincidently, around this time, EPBT Simple Ja R2 had completed production, and my IRL friend was excited to finally get her first GB keyset after waiting >1.5 years. Unfortunately, being relatively normal, she doesn’t own an array of keyboards, and therefore didn’t really have anything to put the keycaps. 
 
-Curious to see the quality of the EPBT dye-sub, I offered to let he build and borrow the TGR Jane ME so she had something to put her keycaps on. 
+Curious to see the quality of the EPBT dye-sub, I offered to let her build and borrow the TGR Jane ME so she had something to put her keycaps on. 
 
 ---
 
@@ -25,7 +25,7 @@ With University concluding and the end of year approaching, the odd hours of a M
 The Build Plan:
 * TGR Jane V2 ME – Silver
 * Brass Plate
-* All Clacks – Stock (Didn't have time to prepare anything)
+* All Clacks – Stock (Didn't have time to prepare anything better)
 * TX Stabilisers – MCG 129 Lube
 * EPBT Simple Ja R2
 
