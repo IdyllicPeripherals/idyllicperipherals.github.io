@@ -10,13 +10,13 @@ featured_image: '/images/Photo_Blog/Jane/DSC_1343.jpg'
 
 On Wednesday the 28th of September, I was fortunate enough to find an invoice for the TGR Jane V2 ME in my inbox. This wasn’t something I needed to have, but how can I turn-down the opportunity to own a keyboard boasting the TGR name.
 
-Monokei’s service was great and the keyboard arrived to me on October the 10th after being in transit with DHL for a 4 business days.
+Monokei’s service was great and the keyboard arrived to me on October the 10th after being in transit with DHL for 4 business days.
 
-At this point I didn’t have anything in-mind for the keyboard and was too busy with other things to make time for building. When it arrived, the initial decision was to let it rest in the Kaban for a while longer.
+At this point, I didn’t have anything in-mind for the keyboard and was too busy with other things to make time for building. When it arrived, the initial decision was to let it rest in the Kaban for a while longer.
 
-Coincidently, around this time, EPBT Simple Ja R2 had completed production, and my IRL friend was excited to finally get her first GB keyset after waiting >1.5 years. Unfortunately, being relatively normal, she doesn’t own an array of keyboards, and therefore didn’t really have anything to put the keycaps. 
+Coincidently, around this time, EPBT Simple Ja R2 had completed production, and my IRL friend was excited to finally get her first GB keyset after waiting >1.5 years. Unfortunately, being relatively normal, she doesn’t own an array of keyboards, and therefore didn’t really have anything to put the keycaps on. 
 
-Curious to see the quality of the EPBT dye-sub, I offered to let her build and borrow the TGR Jane ME so she had something to put her keycaps on. 
+Curious to see the quality of the EPBT dye-sub, I offered to let her build and borrow the TGR Jane ME so she had something to put Simple Ja on. 
 
 ---
 
@@ -46,10 +46,11 @@ Though our team could be described as "somewhat-unorthodox", I wasn’t too worr
 
 ### Switches:
 Deciding on switches. All Clacks, SP Star Momos or TTC Golden Browns?
+
+Not the best range... But this is all I had on-hand. 
 <div class="gallery" data-columns="1">
 <img src="/images/Photo_Blog/Jane/DSC_1311.jpg">
 </div>
-Not the best range... But this is all I had on-hand. 
 
 ### Stabiliser Prep + Close Ups:
 <div class="gallery" data-columns="2">
@@ -83,7 +84,7 @@ Since this is a Hotswap PCB, I recommended putting switches into the plate all a
 
 How do people struggle with Switches, Plates and PCbs. 
 
-No skill issues here ¯\_(ツ)_/¯
+No skill issues here ¯\\_(ツ)_/¯
 
 ### Opening Up the Jane V2:
 <div class="gallery" data-columns="2">
@@ -97,7 +98,7 @@ No skill issues here ¯\_(ツ)_/¯
 <img src="/images/Photo_Blog/Jane/DSC_1337.jpg">
 </div>
 
-Trying to remove the backplate was actually pretty troublesome; the tool, being made from plastic, was relatively soft and deformed too much. The magnets were too strong, and it was difficult to leverage enough force to prop the back plate up. 
+Trying to remove the backplate was actually pretty troublesome; the tool, being made from plastic, was relatively soft and easily deformed. The magnets were too strong, and it was very difficult to generate enough force to leverage the backplate upwards. 
 
 ### Opening Up the Jane V2 Continued:
 <div class="gallery" data-columns="2">
@@ -129,19 +130,21 @@ Trying to remove the backplate was actually pretty troublesome; the tool, being 
 <img src="/images/Photo_Blog/Jane/DSC_1361.jpg">
 </div>
 
-Soooo, I fugged up and didn’t check thorough enough… The enter stabiliser had an issue and we needed to take it all apart to re-do and fix it.
+Soooo, I fugged up and didn’t check thoroughly enough… The enter stabiliser had an issue and we needed to take it all apart to re-do.
 
 
 ### Existence is Suffering:
 
-When taking the board apart, we found out that the All Clacks stems really liked the EPBT keycaps and didn’t want to leave 😊. This meant that we didn’t have enough switches to put back into the keyboard. 
+When taking the board apart, we found out that the All Clacks stems really liked the EPBT keycaps and didn’t want to leave 😊. 
+
+This meant that we didn’t have enough switches to put back into the keyboard. 
 <div class="gallery" data-columns="1">
 <img src="/images/Photo_Blog/Jane/DSC_1363.jpg">
 </div>
 
-I had to use a small drill bit to remove the broken stems out of like 10 keycaps. 
+I had to use a small drill bit and tweezers to remove the broken stems out of about 10 keycaps. 
 
-If the switches were to have broken-off when she returned the board, that would have been easier to manage. I wasn’t planning on needing to take the keycaps off so soon, otherwise All Clacks would not have been used for the build. 
+If the switches were to have broken-off when she returned the board, that would have been easier to manage. I wasn’t planning on needing to take the keycaps off so soon.
 
 
 ### Finishing Up - Again:
@@ -169,7 +172,7 @@ Easy speedrun.
 <img src="/images/Photo_Blog/Jane/DSC_1370.jpg">
 <img src="/images/Photo_Blog/Jane/DSC_1371.jpg">
 </div>
-The board worked fine and had no issues when we tested VIA.
+The board worked fine and had no issues when we tested it in VIA.
 
 Friend A and Friend B were actually really quick at typing and reached >100 WPM on Monkey Type. 
 
