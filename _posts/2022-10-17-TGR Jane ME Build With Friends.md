@@ -29,7 +29,7 @@ The Build Plan:
 * TX Stabilisers – MCG 129 Lube
 * EPBT Simple Ja R2
 
-Building a keyboard is relatively simple; what’s the worse that could happen? 
+Building a keyboard is relatively simple; what’s the worst that could happen? 
 
 Though our team could be described as "somewhat-unorthodox", I wasn’t too worried and put full faith in their building skills.
 
@@ -82,7 +82,7 @@ Since this is a Hotswap PCB, I recommended putting switches into the plate all a
 <img src="/images/Photo_Blog/Jane/DSC_1329.jpg">
 </div>
 
-How do people struggle with Switches, Plates and PCbs. 
+How do people struggle with Switches, Plates and PCBs. 
 
 No skill issues here ¯\\_(ツ)_/¯
 
