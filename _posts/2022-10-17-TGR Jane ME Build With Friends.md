@@ -1,5 +1,5 @@
 ---
-title: 'Spontantious TGR Jane V2 ME Build'
+title: 'Spontaneous TGR Jane V2 ME Build'
 date: 2022-10-17 00:00:00
 description: The Joys of Building Keyboards with Friends.
 featured_image: '/images/Photo_Blog/Jane/DSC_1343.jpg'
