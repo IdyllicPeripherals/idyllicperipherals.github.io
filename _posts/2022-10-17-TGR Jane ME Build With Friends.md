@@ -4,7 +4,11 @@ date: 2022-10-17 00:00:00
 description: The Joys of Building Keyboards with Friends.
 featured_image: '/images/Photo_Blog/Jane/DSC_1343.jpg'
 ---
+---
+**Disclaimer:** This is not a build guide nor is the photography the greatest. 
+<br>This is Idyllic having fun and capturing the moment. 
 
+---
 
 ## Background
 

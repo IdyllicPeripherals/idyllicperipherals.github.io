@@ -2,7 +2,7 @@
 title: 'Simple Acrylic Stands'
 date: 2021-09-20 00:00:00
 description: Offering an Alternative Stand Design with Focuses on Value.
-featured_image: '/images/Photo_Blog/Simple_Stand6.jpg'
+featured_image: '/images/Photo_Blog/Simple_Stand4.jpg'
 ---
 
 <div class="gallery" data-columns="1">

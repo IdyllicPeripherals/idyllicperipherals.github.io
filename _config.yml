@@ -62,6 +62,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-paginate: 6
+paginate: 15
 paginate_path: "/blog/page:num/"
   

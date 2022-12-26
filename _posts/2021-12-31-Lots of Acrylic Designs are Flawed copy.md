@@ -2,7 +2,7 @@
 title: 'Lots of Acrylic Designs are Flawed'
 date: 2021-12-31 00:00:00
 description: Unintentionally ruining the end user experience.
-featured_image: '/images/Photo_Blog/Plate_Keycap_Ref.jpg'
+featured_image: '/images/Photo_Blog/Plate_Keycap.jpg'
 ---
 
 <div class="gallery2" data-columns="1">
