@@ -7,7 +7,7 @@ featured_image: '/images/Photo_Blog/Dye_1.jpg'
 
 ###  First Serious Attempt at Getting Perfect Alignment 
 
-I’ve casted a silicone Jig to help hold keycaps in place. I’m hoping this will help me stay organised during the Dye-Sublimation process.
+I’ve casted a silicone jig to help hold keycaps in place. I’m hoping this will help me stay organised during the Dye-Sublimation process.
 
 I’ve manually created an alignment tool out of paper which will help me align images to the centre of the keycap. At the moment the process is slow and labour intensive; I hope to find a better solution in the future. 
 
@@ -29,8 +29,8 @@ The alignment is not perfect but should be easily fixable; at the moment the ima
 
 There are also many issues with the sublimation quality due of several factors:
 * Printer colour profile is slightly off
-* Oven didn’t consistently heat the Jig and keycaps 
-* Cooking Time and Temperature – left in the oven too long
+* Oven didn’t consistently heat the jig and keycaps 
+* Cooking time and temperature – left in the oven too long
 * Cooling happened too slowly
 * Uneven pressure on the silicone membrane – poor management of the vacuum system
 
@@ -42,6 +42,4 @@ There are also many issues with the sublimation quality due of several factors:
 	<img src="/images/Photo_Blog/Dye_4.jpg">
 </div>
 
-
 ---
-
