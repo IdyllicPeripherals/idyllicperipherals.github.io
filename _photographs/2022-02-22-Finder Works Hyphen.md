@@ -6,7 +6,7 @@ description:
 featured_image: '/images/Photo_Photography/Hyphen_Finder_Works_2.jpeg'
 ---
 
-### GMK Fugo and Cherry MX Browns
+### GMK Yugo and Cherry MX Browns
 
 <div class="gallery2" data-columns="1">
     <img src="/images/Photo_Photography/Hyphen_Finder_Works_2.jpeg">
