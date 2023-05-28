@@ -13,7 +13,7 @@ I’ve been in the Mechanical Keyboard scene since 2016 and have recently comple
 
 I’m not too social and usually keep to myself; the [Australian Keyboard Discord](https://discord.gg/kDVErE7xHk){:target="_blank"} is probably where I am most active. 
 
-~~My current focus in 2022 is to produce more keyboard goods locally using Australian infrastructure. I don’t really expect to produce many things, but I’m curious to see how willing local businesses are to work with hobbyists. 
+~~My current focus in 2022 is to produce more keyboard goods locally using Australian infrastructure. I don’t really expect to produce many things, but I’m curious to see how willing local businesses are to work with hobbyists. ~~
 
 In 2022 I was able to successfully find a local business who is friendly and willing enough to help local enthusiasts cut and produce metal keyboard plates. I highly recommend the team at Kilner’s Engineering in Morningside, Queensland for laser cut Aluminium and Stainless Steel.
 
