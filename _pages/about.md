@@ -18,9 +18,9 @@ I’m not too social and usually keep to myself; the [Australian Keyboard Discor
 In 2022 I was able to successfully find a local business who is friendly and willing enough to help local enthusiasts cut and produce metal keyboard plates. I highly recommend the team at Kilner’s Engineering in Morningside, Queensland for laser cut Aluminium and Stainless Steel.
 
 For 2023, I’d like to focus on only three main projects:
-* Butterfly knife / Balisong Keycap Puller – CNC Aluminium - Black, Purple, Light Blue Anodisation
-* Switch Break in Machine – Stepper Motor, Stepper Driver
-* DIY Dye Sublimated Keycaps – Convert Inkjet Printer, Vacuum sealer, Portable Oven
+* **Butterfly knife / Balisong Keycap Puller** – CNC Aluminium - Black, Purple, Light Blue Anodisation
+* **Switch Break in Machine** – Stepper Motor, Stepper Driver
+* **DIY Dye Sublimated Keycaps** – Convert Inkjet Printer, Vacuum sealer, Portable Oven
 
 I currently run Mechstock as well as provide goods to multiple vendors in Australia.
 
