@@ -12,20 +12,20 @@ GMK WOB Icons + GMK CMYK Mods
 
 
 <div class="gallery" data-columns="1">
-    <img src="/images/Photo_Photography/IU_TKL_Keyboard_6B.jpg">
+    <img src="/images/Photo_Photography/IU_TKL_Keyboard_6B.jpg" alt="IU TKL Perry Works Purple Mechanical Keyboard">
 </div>
 
 <div class="gallery" data-columns="2">
-    <img src="/images/Photo_Photography/IU_TKL_Keyboard_5a.jpg">
-    <img src="/images/Photo_Photography/IU_TKL_Keyboard_2.jpg">
+    <img src="/images/Photo_Photography/IU_TKL_Keyboard_5a.jpg" alt="IU TKL Perry Works Purple Mechanical Keyboard">
+    <img src="/images/Photo_Photography/IU_TKL_Keyboard_2.jpg" alt="IU TKL Perry Works Purple Mechanical Keyboard">
 </div>
 
 <div class="gallery" data-columns="1">
-    <img src="/images/Photo_Photography/IU_TKL_Keyboard_4a.jpg">
+    <img src="/images/Photo_Photography/IU_TKL_Keyboard_4a.jpg" alt="IU TKL Perry Works Purple Mechanical Keyboard">
 </div>
 
 <div class="gallery" data-columns="1">
-    <img src="/images/Photo_Photography/IU_TKL_Keyboard_3a.jpg">
+    <img src="/images/Photo_Photography/IU_TKL_Keyboard_3a.jpg"alt="IU TKL Perry Works Purple Mechanical Keyboard">
 </div>
 
 ---
