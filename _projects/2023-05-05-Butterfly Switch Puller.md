@@ -6,7 +6,7 @@ description: Making keyboard tools fun.
 featured_image: '/images/Photo_Blog/Butterly_Puller.jpg'
 --- 
 
-**[IN PROGRESS]**
+**[IN PROGRESS - Late Updated - 15th of June 2023]**
 
 ---
 <div class="gallery" data-columns="2">
@@ -15,7 +15,7 @@ featured_image: '/images/Photo_Blog/Butterly_Puller.jpg'
 
 ---
 
-###*Milestones###
+###Milestones###
 
 **18-4-2023**
 - Learning Fusion 360 [Zero prior 3D CAD experience]
