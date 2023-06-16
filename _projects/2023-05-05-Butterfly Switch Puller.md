@@ -15,7 +15,7 @@ featured_image: '/images/Photo_Projects/Butterfly_Puller.png'
 
 ---
 
-When it comes to expensive products, sellers need to convince customers that their goods are a worthwhile purchase; this is tricky since value is subjective. There are so many variables, tangible and intangible, that can be considered.
+When it comes to expensive products, sellers need to convince customers that their goods are a worthwhile purchase; this is tricky since value is subjective. There are so many variables, both tangible and intangible to consider.
 
 The value of a keycap puller is in its ability to remove keycaps; this is the sole purpose of the tool. Such a simple function can be achieved by something as inexpensive as leftover paperclips or if you’re a bit fancier, 50c mass-produced injection molded pullers. 
 
