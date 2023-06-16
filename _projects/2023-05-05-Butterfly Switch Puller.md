@@ -16,10 +16,14 @@ featured_image: '/images/Photo_Projects/Butterfly_Puller.png'
 ---
 
 When it comes to expensive products, sellers need to convince customers that their goods are a worthwhile purchase; this is tricky since value is subjective. There are so many variables, tangible and intangible, that can be considered.
+
 The value of a keycap puller is in its ability to remove keycaps; this is the sole purpose of the tool. Such a simple function can be achieved by something as inexpensive as leftover paperclips or if you’re a bit fancier, 50c mass-produced injection molded pullers. 
+
 There are a few things that can be done to make the user-experience better, and current custom pullers do have tangible additions to their designs. Usually, the handles are enlarged and shaped out of Wood, Plastic or Metal to provide users with better grip. Most times, however, the wire remains unchanged and is the standard silver stainless steel.
 
-In terms of intangible, brand recognition is always a powerful advertising and sales tool, however, unfortunately, since I’m a small, no-name maker, this isn’t a realistic method I can rely on to guarantee purchases.  After many months of passive, shower thoughts, I concluded that my design needs to focus on aesthetics while also adding a sprinkle of some outlandishness; my keycap pullers need to be beautiful, innovative and provide value in terms of novelty.
+In terms of intangible, brand recognition is always a powerful advertising and sales tool, however, unfortunately, since I’m a small, no-name maker, this isn’t a realistic method I can rely on to guarantee purchases.  
+
+After many months of passive, shower thoughts, I concluded that my design needs to focus on aesthetics while also adding a sprinkle of some outlandishness; my keycap pullers need to be beautiful, innovative and provide value in terms of novelty.
 
 Resin, anodised metals, Cerakote and sparkles are great for visuals and social media posts, but at the end of the day, most fancy keycap pullers just get put aside, and are only taken-out when keycaps need removing; this makes them no different to any other puller tool. 
 Is there a way I can create a Keycap puller that has some potential value even when keycaps don’t need removing?
