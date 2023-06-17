@@ -16,7 +16,7 @@ featured_image: '/images/Photo_Projects/Butterfly_Puller.png'
 ---
 
 ### The Design ###
-This is a premium keycap puller, but for simplicity and the sake of airport-customs, it is also called a **“High Precision Specialised Wire Tool with Elongated Handles.”** There is no blade, and this is not a weapon; this accessory is a wire-tool used for removing keycaps off Computer Keyboards. The folding handle design allows for improved safe-keeping and minimises the risk of accidental damage to the wires.
+This is a premium keycap puller, but for simplicity and the sake of airport-customs, it is also called the **“High Precision Specialised Wire Tool with Elongated Handles.”** There is no blade, and this is not a weapon; this accessory is a wire-tool used for removing keycaps off Computer Keyboards. The folding handle design allows for improved safe-keeping and minimises the risk of accidental damage to the wires.
 
 ### When will it be purchaseable? ###
 I plan to release the first batch of pullers in August, 2023. This timeline lines up with the Melbourne keyboard meetup and I would like to have some display units to show on the day. 
