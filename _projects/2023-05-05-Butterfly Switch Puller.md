@@ -53,7 +53,7 @@ If the design is popular enough, I’ll consider in-stock drops every 2-3 months
 - Re-designed Wire Shape [More rounded design to match the roundness of R2 Handles]
 
 **15-6-2023**
-- Finished Rev 2 Design and ordering parts round 2
+- Finished Rev 2 Design and ordering parts - Round 2
 * Blade [Order Placed] [25x Silver and 25x Black units from familiar CNC factory #2]
 * Handles [Pending Order Placement] 
 * Wires [Pending Order Placement] 
