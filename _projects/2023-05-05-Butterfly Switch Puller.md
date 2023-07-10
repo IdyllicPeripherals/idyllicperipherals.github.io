@@ -61,9 +61,17 @@ If the design is popular enough, I’ll consider in-stock drops every 2-3 months
 * Boxes [Order Placed] [20x Black, 20x White, 10x Light Blue]
 
 **21-6-2023**
-* Handles [Order Placed] [10x units or 50 units]
+* Handles [Order Placed] [50 units]
 * Wires [Order Placed] [50x Black and 50x Silver Nitinol Wires]
 * Hardware [Order Placed] [Bushings, Washers, Pivot Barrels and Pivot Screws]
+
+**10-7-2023**
+* Most parts have finished production and are shipping via Sea Freight
+* Nitinol Wires are still in production
+
+<div class="gallery3" data-columns="1">
+	<img src="/images/Photo_Projects/DDS_Purple.JPEG">
+</div>
 
 ---
 
