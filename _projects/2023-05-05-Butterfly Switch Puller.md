@@ -77,7 +77,7 @@ If the design is popular enough, I’ll consider in-stock drops every 2-3 months
 * Nitinol Wires + Handles arrived to me in Australia. 
   
 <div class="gallery3" data-columns="1">
-	<img src="/images/Photo_Projects/Balisong_Keycap_Puller.jpeg">
+	<img src="/images/Photo_Projects/Balisong_Keycap_Puller.jpg">
 </div>
 
 ---
