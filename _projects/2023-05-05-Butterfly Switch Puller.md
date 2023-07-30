@@ -67,10 +67,17 @@ If the design is popular enough, I’ll consider in-stock drops every 2-3 months
 
 **10-7-2023**
 * Most parts have finished production and are shipping via Sea Freight
-* Nitinol Wires are still in production
+* Nitinol Wires + Handles are still in production (Will send via Air Freight)
 
 <div class="gallery3" data-columns="1">
 	<img src="/images/Photo_Projects/DDS_Purple.jpg">
+</div>
+
+**28-7-2023**
+* Nitinol Wires + Handles arrived to me in Australia. 
+  
+<div class="gallery3" data-columns="1">
+	<img src="/images/Photo_Projects/Balisong_Keycap_Puller.jpeg">
 </div>
 
 ---
