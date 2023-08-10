@@ -18,7 +18,7 @@ featured_image: '/images/Photo_Projects/Balisong_Puller_Proto_1.jpg'
 ### The Design ###
 This is a premium keycap puller, but for the sake of simplicity and airport-customs, it is also called the **“High Precision Specialised Wire Tool with Elongated Handles.”** There is no blade, and this is not a weapon; this accessory is a wire-tool used for removing keycaps off Computer Keyboards. The folding handle design allows for improved safe-keeping and minimises the risk of accidental damage to the wires.
 
-### When will it be purchaseable? ###
+### When will it be purchasable? ###
 I plan to release the first batch of pullers in August, 2023. This timeline lines up with the Melbourne keyboard meetup and I would like to have some on display during the day. 
 If the design is popular enough, I’ll consider in-stock drops every 2-3 months with different colourways each time. When I get bored and want to sell-out, I’ll make weeb edition pullers with anime waifus or something.
 
