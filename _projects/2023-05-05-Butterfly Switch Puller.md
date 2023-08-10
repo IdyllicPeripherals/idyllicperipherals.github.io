@@ -3,7 +3,7 @@ title: 'Butterfly Switch Puller'
 date: 2023-05-05 00:00:00
 subtitle: 'IN PROGRESS.'
 description: Premium Keycap Puller.
-featured_image: '/images/Photo_Projects/Butterfly_Puller.png'
+featured_image: '/images/Photo_Projects/Balisong_Puller_Proto_1.jpg'
 --- 
 
 **[IN PROGRESS - Late Updated - 10th of August 2023]**
