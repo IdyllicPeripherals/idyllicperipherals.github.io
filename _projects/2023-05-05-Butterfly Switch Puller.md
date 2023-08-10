@@ -6,7 +6,7 @@ description: Premium Keycap Puller.
 featured_image: '/images/Photo_Projects/Butterfly_Puller.png'
 --- 
 
-**[IN PROGRESS - Late Updated - 27th of June 2023]**
+**[IN PROGRESS - Late Updated - 10th of August 2023]**
 
 ---
 <div class="gallery3" data-columns="1">
@@ -79,6 +79,9 @@ If the design is popular enough, I’ll consider in-stock drops every 2-3 months
 <div class="gallery3" data-columns="1">
 	<img src="/images/Photo_Projects/Balisong_Keycap_Puller.jpg">
 </div>
+
+**10-8-2023**
+* Blade, Bushing and Hardware arrived to me in Australia. Sea Freight was delayed by 1 week due to a Typhoon.
 
 ---
 
