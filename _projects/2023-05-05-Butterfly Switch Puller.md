@@ -81,8 +81,9 @@ If the design is popular enough, I’ll consider in-stock drops every 2-3 months
 </div>
 
 **10-8-2023**
-* Blade, Bushing and Hardware arrived to me in Australia. Sea Freight was delayed by 1 week due to a Typhoon.
+* Blade, Boxes, Bushing and Hardware arrived to me in Australia. Sea Freight was delayed by 1 week due to a Typhoon.
 
+---
 
 ### Completed Balisong Butterfly Puller ###
 
