@@ -25,7 +25,7 @@ GMK WOB Icons + GMK CMYK Mods
 </div>
 
 <div class="gallery" data-columns="1">
-    <img src="/images/Photo_Photography/IU_TKL_Keyboard_3a.jpg"alt="IU TKL Perry Works Purple Mechanical Keyboard">
+    <img src="/images/Photo_Photography/IU_TKL_Keyboard_3a.jpg" alt="IU TKL Perry Works Purple Mechanical Keyboard">
 </div>
 
 ---
