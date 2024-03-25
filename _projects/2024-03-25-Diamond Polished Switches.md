@@ -33,18 +33,6 @@ Above is the setup I use to keep all the parts organised. Switch Tops, Stems and
 Since 1.5mm Acrylic is commonly only found in Clear colour, I had to engraved text to each Bottom-Housing holder. This makes it obvious and easy to match bottoms with the stems in the 3mm acrylic. 
 
 ---
-### More Images ###
-216 Switches - 6 Sets of 36 switches opened up and ready for cleaning
-
-<div class="gallery2" data-columns="2">
-	<img src="/images/Photo_Projects/Diamond_Polish_Cherry_5.jpg">
-</div>
-
-<div class="gallery2" data-columns="2">
-	<img src="/images/Photo_Projects/Diamond_Polish_Cherry_1.jpg">
-</div>
-
----
 
 ### Why It's Important to Keep Switch Parts Mated ###
 
@@ -71,4 +59,16 @@ This becomes a greater problem with scale since we don’t know how many parts a
 
 i.e. If for whatever reason 10/100 switches are bad, mixing the parts has the potential to produce 20/100 Bad Switches. 
 
+
 ---
+### More Images ###
+216 Switches - 6 Sets of 36 switches opened up and ready for cleaning
+
+<div class="gallery2" data-columns="2">
+	<img src="/images/Photo_Projects/Diamond_Polish_Cherry_5.jpg">
+</div>
+
+<div class="gallery2" data-columns="2">
+	<img src="/images/Photo_Projects/Diamond_Polish_Cherry_1.jpg">
+</div>
+
