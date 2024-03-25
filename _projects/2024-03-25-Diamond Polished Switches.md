@@ -45,3 +45,26 @@ Since 1.5mm Acrylic is commonly only found in Clear colour, I had to engraved te
 </div>
 
 ---
+
+### Why Keep Switches Mated is Important ###
+
+Lets say that 1x switch is in a batch is a dud and not polished properly it can end up ruining the quality of 2x Switches. 
+
+i.e. 
+1x Bad Switch = Bad Stem + Bad Housing 
+
+If you mix 1 Bad Switch with 1x Good Switch you end up with 2x Bad Switches
+1x Bad Switch = Bad Stem + Bad Housing
+1x Good Switch = Good Stem + Good Housing
+
+1x Bad Switch x 1x Good Switch = 2x Bad Switches
+
+1x Bad Switch = Good Stem + Bad Housing
+1x Bad Switch = Bad Stem + Good Housing
+
+If we keep the switches mated instead of mixing parts, then we avoid this issue and can simply just remove the 1x Bad switch instead of mixing it into the batch and now needing to remove 2x Bad switches. 
+
+This becomes a problem with scale since we don’t know how many parts are bad until tested. 
+i.e. If for whatever reason 10/100 switches are bad, mixing the parts has the potential to produce 20/100 bad switches. 
+
+---
