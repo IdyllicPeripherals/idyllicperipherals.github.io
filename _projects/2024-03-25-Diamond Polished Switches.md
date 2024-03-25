@@ -48,7 +48,7 @@ Since 1.5mm Acrylic is commonly only found in Clear colour, I had to engraved te
 
 ### Opinon: Why It's Important to Keep Switche Parts Mated ###
 
-Lets say that 1x switch is in a batch is a dud and not polished properly it can end up ruining the quality of 2x Switches. 
+Lets say that 1x Switch is in a batch is a dud and not polished properly it can end up ruining the quality of 2x Switches. 
 
 i.e. 1x Bad Switch = Bad Stem + Bad Housing 
 
@@ -56,7 +56,6 @@ If you mix 1 Bad Switch with 1x Good Switch you end up with 2x Bad Switches.
 
 - 1x Bad Switch = Bad Stem + Bad Housing
 - 1x Good Switch = Good Stem + Good Housing
-
 
 - 1x Bad Switch = Good Stem + Bad Housing
 - 1x Bad Switch = Bad Stem + Good Housing
