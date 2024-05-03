@@ -24,7 +24,7 @@ The Honor 90 Lite I purchased was the CRT-NX1 Global version in Midnight Black a
 
 When I installed the Kogan Sim card I was disappointed to find out I could not make any phone calls even though the Mobile Data was working. There was nothing in the settings that would fix this issue and I started to wonder if I should try a different mobile network like Optus or Telstra.
 
-Fortunately, I found a relatively easy way to forcefully unlock VoLTE so that I could make calls over the 4G network.
+Fortunately, I found a relatively easy way to forcefully unlock VoLTE so that I could make calls over the 4G network. This fix seems permanent and VoLTE still shows after restarting. 
 
 I don’t really understand much of the technical aspect but just followed some guides and it worked out. Normally I’d be a bit more hesitant to install random apps and APKs on my phone but I was desperate. 
 
