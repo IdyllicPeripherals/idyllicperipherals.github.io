@@ -1,7 +1,7 @@
 ---
-title: 'Diamond Polished Switches'
+title: 'Diamond Polished Cherry MX Switches'
 date: 2024-03-25 00:00:00
-subtitle: 'DIY Laser Cut Tools to make cleaning easier.'
+subtitle: 'Laser Cut Acrylic Tools to Make Cleaning Easier.'
 description: Diamond Polished Cherry MX Blacks.
 featured_image: '/images/Photo_Projects/Diamond_Polish_Cherry_4.jpg'
 --- 
