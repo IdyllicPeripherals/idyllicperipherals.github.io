@@ -45,7 +45,7 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
     </style>
 </head>
 
-<body onLoad=" LoadOnce()">
+<body>
     <div id="body_DTP">
         <div>
         <h2>Dynamic Trunking Protocol Modes</h2>
@@ -71,7 +71,7 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
             <div id="feedback">The Switch Port will be an <br><span class="bold_DTP"> Access Port</div>
         </div>
     </div>
-
+</body>
 <script>
     function LoadOnce() 
 { 
@@ -140,6 +140,3 @@ window.location.reload();
         updateFeedback();
     });
 </script>
-
-
-</body>
