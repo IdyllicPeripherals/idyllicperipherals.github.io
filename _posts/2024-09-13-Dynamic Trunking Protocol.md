@@ -6,25 +6,32 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
 ---
 
 <head>
-        <script>
+            <script>
         // Define the function to be executed
         function updateFeedback() {
             const statusElement = document.getElementById('status');
-            statusElement.textContent = 'Mouse moved! Function executed.';
+            statusElement.textContent = 'Interaction detected! Function executed.';
             statusElement.style.color = 'green';
         }
 
-        // Function to handle the mouse move event and execute `updateFeedback`
-        function onMouseMove() {
-            // Remove the mouse move event listener to ensure the function runs only once
-            document.removeEventListener('mousemove', onMouseMove);
+        // Function to handle interaction and execute `updateFeedback`
+        function handleInteraction(event) {
+            // Remove the event listener to ensure the function runs only once
+            document.removeEventListener('mousemove', handleInteraction);
+            document.removeEventListener('touchstart', handleInteraction);
 
             // Call the `updateFeedback` function
             updateFeedback();
+
+            // Prevent default behavior for touch event
+            if (event.type === 'touchstart') {
+                event.preventDefault();
+            }
         }
 
-        // Attach the event listener to the document
-        document.addEventListener('mousemove', onMouseMove);
+        // Attach event listeners for both mouse and touch events
+        document.addEventListener('mousemove', handleInteraction);
+        document.addEventListener('touchstart', handleInteraction);
     </script>
     
     <style>
