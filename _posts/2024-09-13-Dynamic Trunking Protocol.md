@@ -44,34 +44,6 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
         }
     </style>
 </head>
-
-<body>
-    <div id="body_DTP">
-        <div>
-        <h2>Dynamic Trunking Protocol Modes</h2>
-            <br>
-            <form id="optionsForm_DTP">
-                <label for="switchPort1">Switch Port A:</label>
-                <select id="switchPort1" name="switchPort1" onchange="updateFeedback()">
-                    <option value="Dynamic Auto">Dynamic Auto</option>
-                    <option value="Dynamic Desirable">Dynamic Desirable</option>
-                    <option value="Trunk">Trunk</option>
-                    <option value="Access">Access</option>
-                </select>
-                <br><br>
-                <label for="switchPort2">Switch Port B:</label>
-                <select id="switchPort2" name="switchPort2" onchange="updateFeedback()">
-                    <option value="Dynamic Auto">Dynamic Auto</option>
-                    <option value="Dynamic Desirable">Dynamic Desirable</option>
-                    <option value="Trunk">Trunk</option>
-                    <option value="Access">Access</option>
-                </select>
-            </form>
-    
-            <div id="feedback">The Switch Port will be an <br><span class="bold_DTP"> Access Port</div>
-        </div>
-    </div>
-</body>
 <script>
     function LoadOnce() 
 { 
@@ -140,3 +112,30 @@ window.location.reload();
         updateFeedback();
     });
 </script>
+<body>
+    <div id="body_DTP">
+        <div>
+        <h2>Dynamic Trunking Protocol Modes</h2>
+            <br>
+            <form id="optionsForm_DTP">
+                <label for="switchPort1">Switch Port A:</label>
+                <select id="switchPort1" name="switchPort1" onchange="updateFeedback()">
+                    <option value="Dynamic Auto">Dynamic Auto</option>
+                    <option value="Dynamic Desirable">Dynamic Desirable</option>
+                    <option value="Trunk">Trunk</option>
+                    <option value="Access">Access</option>
+                </select>
+                <br><br>
+                <label for="switchPort2">Switch Port B:</label>
+                <select id="switchPort2" name="switchPort2" onchange="updateFeedback()">
+                    <option value="Dynamic Auto">Dynamic Auto</option>
+                    <option value="Dynamic Desirable">Dynamic Desirable</option>
+                    <option value="Trunk">Trunk</option>
+                    <option value="Access">Access</option>
+                </select>
+            </form>
+    
+            <div id="feedback">The Switch Port will be an <br><span class="bold_DTP"> Access Port</div>
+        </div>
+    </div>
+</body>
