@@ -45,7 +45,7 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
     </style>
 </head>
 
-<body>
+<body onLoad=" LoadOnce()">
     <div id="body_DTP">
         <div>
         <h2>Dynamic Trunking Protocol Modes</h2>
@@ -73,6 +73,11 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
     </div>
 
 <script>
+    function LoadOnce() 
+{ 
+window.location.reload(); 
+} 
+    
     function updateFeedback() {
         const switchPort1 = document.getElementById('switchPort1').value;
         const switchPort2 = document.getElementById('switchPort2').value;
