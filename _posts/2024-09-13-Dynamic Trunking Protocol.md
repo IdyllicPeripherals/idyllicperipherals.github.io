@@ -6,12 +6,7 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
 ---
 
 <head>
-    <script>
-    function LoadOnce() 
-{ 
-window.location.reload(); 
-} 
-    
+    <script>    
     function updateFeedback() {
         const switchPort1 = document.getElementById('switchPort1').value;
         const switchPort2 = document.getElementById('switchPort2').value;
