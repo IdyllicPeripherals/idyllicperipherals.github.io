@@ -6,34 +6,6 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
 ---
 
 <head>
-            <script>
-        // Define the function to be executed
-        function updateFeedback() {
-            const statusElement = document.getElementById('status');
-            statusElement.textContent = 'Interaction detected! Function executed.';
-            statusElement.style.color = 'green';
-        }
-
-        // Function to handle interaction and execute `updateFeedback`
-        function handleInteraction(event) {
-            // Remove the event listener to ensure the function runs only once
-            document.removeEventListener('mousemove', handleInteraction);
-            document.removeEventListener('touchstart', handleInteraction);
-
-            // Call the `updateFeedback` function
-            updateFeedback();
-
-            // Prevent default behavior for touch event
-            if (event.type === 'touchstart') {
-                event.preventDefault();
-            }
-        }
-
-        // Attach event listeners for both mouse and touch events
-        document.addEventListener('mousemove', handleInteraction);
-        document.addEventListener('touchstart', handleInteraction);
-    </script>
-    
     <style>
         #body_DTP {
             font-size: 1.25em; /* 25% larger than default size */
@@ -74,33 +46,32 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
 </head>
 
 <body>
-    <div id="body_DTP">
-        <div>
-        <h2>Dynamic Trunking Protocol Modes</h2>
-            <br>
-            <form id="optionsForm_DTP">
-                <label for="switchPort1">Switch Port A:</label>
-                <select id="switchPort1" name="switchPort1" onchange="updateFeedback()">
-                    <option value="Dynamic Auto">Dynamic Auto</option>
-                    <option value="Dynamic Desirable">Dynamic Desirable</option>
-                    <option value="Trunk">Trunk</option>
-                    <option value="Access">Access</option>
-                </select>
-                <br><br>
-                <label for="switchPort2">Switch Port B:</label>
-                <select id="switchPort2" name="switchPort2" onchange="updateFeedback()">
-                    <option value="Dynamic Auto">Dynamic Auto</option>
-                    <option value="Dynamic Desirable">Dynamic Desirable</option>
-                    <option value="Trunk">Trunk</option>
-                    <option value="Access">Access</option>
-                </select>
-            </form>
-    
-            <div id="feedback">The Switch Port will be an <br><span class="bold_DTP"> Access Port</span></div>
-        </div>
-    </div>
+         <script> 
+     // Define the function to be executed
+        function updateFeedback() {
+            const statusElement = document.getElementById('status');
+            statusElement.textContent = 'Interaction detected! Function executed.';
+            statusElement.style.color = 'green';
+        }
 
-    <script>    
+        // Function to handle interaction and execute `updateFeedback`
+        function handleInteraction(event) {
+            // Remove the event listener to ensure the function runs only once
+            document.removeEventListener('mousemove', handleInteraction);
+            document.removeEventListener('touchstart', handleInteraction);
+
+            // Call the `updateFeedback` function
+            updateFeedback();
+
+            // Prevent default behavior for touch event
+            if (event.type === 'touchstart') {
+                event.preventDefault();
+            }
+        }
+
+        // Attach event listeners for both mouse and touch events
+        document.addEventListener('mousemove', handleInteraction);
+        document.addEventListener('touchstart', handleInteraction);
     function updateFeedback() {
         const switchPort1 = document.getElementById('switchPort1').value;
         const switchPort2 = document.getElementById('switchPort2').value;
@@ -162,5 +133,31 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
     document.addEventListener('DOMContentLoaded', function() {
         updateFeedback();
     });
-</script>
+</script>    
+    <div id="body_DTP">
+        <div>
+        <h2>Dynamic Trunking Protocol Modes</h2>
+            <br>
+            <form id="optionsForm_DTP">
+                <label for="switchPort1">Switch Port A:</label>
+                <select id="switchPort1" name="switchPort1" onchange="updateFeedback()">
+                    <option value="Dynamic Auto">Dynamic Auto</option>
+                    <option value="Dynamic Desirable">Dynamic Desirable</option>
+                    <option value="Trunk">Trunk</option>
+                    <option value="Access">Access</option>
+                </select>
+                <br><br>
+                <label for="switchPort2">Switch Port B:</label>
+                <select id="switchPort2" name="switchPort2" onchange="updateFeedback()">
+                    <option value="Dynamic Auto">Dynamic Auto</option>
+                    <option value="Dynamic Desirable">Dynamic Desirable</option>
+                    <option value="Trunk">Trunk</option>
+                    <option value="Access">Access</option>
+                </select>
+            </form>
+    
+            <div id="feedback">The Switch Port will be an <br><span class="bold_DTP"> Access Port</span></div>
+        </div>
+    </div>
+
 </body>
