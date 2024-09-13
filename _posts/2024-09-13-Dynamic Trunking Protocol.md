@@ -6,6 +6,27 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
 ---
 
 <head>
+        <script>
+        // Define the function to be executed
+        function updateFeedback() {
+            const statusElement = document.getElementById('status');
+            statusElement.textContent = 'Mouse moved! Function executed.';
+            statusElement.style.color = 'green';
+        }
+
+        // Function to handle the mouse move event and execute `updateFeedback`
+        function onMouseMove() {
+            // Remove the mouse move event listener to ensure the function runs only once
+            document.removeEventListener('mousemove', onMouseMove);
+
+            // Call the `updateFeedback` function
+            updateFeedback();
+        }
+
+        // Attach the event listener to the document
+        document.addEventListener('mousemove', onMouseMove);
+    </script>
+    
     <style>
         #body_DTP {
             font-size: 1.25em; /* 25% larger than default size */
