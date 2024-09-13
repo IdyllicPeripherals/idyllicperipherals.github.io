@@ -68,7 +68,7 @@ featured_image: '/images/Photo_Blog/DTP.jpg'
                 </select>
             </form>
     
-            <div id="feedback"></div>
+            <div id="feedback">The Switch Port will be an <br><span class="bold_DTP"> Access Port</div>
         </div>
     </div>
 
