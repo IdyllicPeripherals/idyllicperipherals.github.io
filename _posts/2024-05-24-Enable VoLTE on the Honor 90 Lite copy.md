@@ -1,6 +1,6 @@
 ---
 title: 'Enable VoLTE on the Honor 90 Lite'
-date: 2023-02-14 00:00:00
+date: 2024-05-24 00:00:00
 description: Forcefully enabling VoLTE on Android.
 featured_image: '/images/Photo_Blog/Honor_Apps.jpg'
 ---
