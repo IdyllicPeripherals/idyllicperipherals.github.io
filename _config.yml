@@ -13,6 +13,9 @@ collections:
   photographs: 
     output: true
     permalink: /photographs/:slug
+  ccnas:
+    output: true
+    permalink: /ccna/:slug
 
 
 defaults:
@@ -45,6 +48,12 @@ defaults:
       type: "photographs"
     values: 
       layout: "project"
+  -  
+    scope:
+      path: ""
+      type: "ccnas"
+    values:
+      layout: "post"
       
       
 markdown: kramdown
