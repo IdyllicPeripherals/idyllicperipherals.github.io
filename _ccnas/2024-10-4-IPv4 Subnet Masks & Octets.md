@@ -2,7 +2,7 @@
 title: 'IPv4 Subnet Masks & Octets'
 date: 2024-10-4 00:00:00
 description: Binary converted to Numbers.
-featured_image: '/images/Photo_Blog/DTP.jpg'
+featured_image: '/images/Photo_Blog/Blank.jpg'
 ---
 
 <head>

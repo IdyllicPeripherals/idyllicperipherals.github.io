@@ -2,7 +2,7 @@
 title: 'Dynamic Trunking Protocol'
 date: 2024-09-13 00:00:00
 description: Interactive Way To Learn DTP.
-featured_image: '/images/Photo_Blog/DTP.jpg'
+featured_image: '/images/Photo_Blog/Blank.jpg'
 ---
 
 <head>
