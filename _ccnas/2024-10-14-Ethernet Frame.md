@@ -26,6 +26,16 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
             padding: 0;
             justify-content: center;
             align-items: center;
+                max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: min(var(--vertical-breather), 80px);
+    max-width: var(--container-max-width);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: var(--container-gutter);
+    padding-right: var(--container-gutter);
+    --container-outer-margin: 0px;
         }
 
         table {
@@ -114,6 +124,10 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
         margin-top: 20px;
         font-size: 20px;
     }
+            @media (max-width: 600px) {
+            .button {
+                width: 100%; /* Full width on smaller screens */
+            }
     </style>
 
 </head>
