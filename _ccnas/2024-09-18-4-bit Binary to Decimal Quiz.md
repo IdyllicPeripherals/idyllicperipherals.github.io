@@ -104,9 +104,18 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
             const resultDisplay = document.getElementById('resultDisplay');
 
             function generateBinary() {
-                const randomBinary = (Math.random() * (isEightBit ? 256 : 16) | 0).toString(2).padStart(isEightBit ? 8 : 4, '0');
-                binaryDisplay.textContent = isEightBit ? formatEightBitBinary(randomBinary) : randomBinary;
-                binaryNumber = parseInt(randomBinary, 2);
+                if (isEightBit) {
+                    // Generate an 8-bit binary number with last 4 bits as 0000
+                    const randomPrefix = Math.floor(Math.random() * 16).toString(2).padStart(4, '0'); // 0-15
+                    const randomBinary = randomPrefix + '0000'; // Last 4 bits are always 0000
+                    binaryDisplay.textContent = formatEightBitBinary(randomBinary);
+                    binaryNumber = parseInt(randomBinary, 2); // Convert the full 8-bit binary to decimal
+                } else {
+                    // Original 4-bit logic remains unchanged
+                    const randomBinary = (Math.random() * 16 | 0).toString(2).padStart(4, '0');
+                    binaryDisplay.textContent = randomBinary;
+                    binaryNumber = parseInt(randomBinary, 2);
+                }
                 generateButtons();
                 resultDisplay.textContent = ''; // Clear result text
             }
