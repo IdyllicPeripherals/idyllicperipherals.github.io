@@ -66,21 +66,21 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
     </div>
 
     <div class="question">
-        <label for="q4">In spanning tree 802.1D, what is the hello time in seconds?</label>
+        <label for="q4">In spanning tree 802.1D, what is the Hello time in seconds?</label>
         <input type="text" id="q4" oninput="checkAnswer('q4', '2', this)">
         <div class="checkbox" id="q4-checkbox"></div>
         <button class="hint-btn" onmousedown="showHint('q4', '2')" onmouseup="clearHint('q4')">?</button>
     </div>
 
     <div class="question">
-        <label for="q5">In spanning tree 802.1D, what is the forward time in seconds?</label>
+        <label for="q5">In spanning tree 802.1D, what is the Forward time in seconds?</label>
         <input type="text" id="q5" oninput="checkAnswer('q5', '15', this)">
         <div class="checkbox" id="q5-checkbox"></div>
         <button class="hint-btn" onmousedown="showHint('q5', '15')" onmouseup="clearHint('q5')">?</button>
     </div>
 
     <div class="question">
-        <label for="q6">In spanning tree 802.1D, what is the max age time in seconds?</label>
+        <label for="q6">In spanning tree 802.1D, what is the Max Age time in seconds?</label>
         <input type="text" id="q6" oninput="checkAnswer('q6', '20', this)">
         <div class="checkbox" id="q6-checkbox"></div>
         <button class="hint-btn" onmousedown="showHint('q6', '20')" onmouseup="clearHint('q6')">?</button>
@@ -125,7 +125,7 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
         <label for="q12">Setup Root Guard:</label>
         <input type="text" id="q12" oninput="checkAnswer('q12', 'spanning-tree loop guard', this)">
         <div class="checkbox" id="q12-checkbox"></div>
-        <button class="hint-btn" onmousedown="showHint('q12', 'spanning-tree loop guard')" onmouseup="clearHint('q12')">?</button>
+        <button class="hint-btn" onmousedown="showHint('q12', 'spanning-tree root guard')" onmouseup="clearHint('q12')">?</button>
     </div>
 
     <div class="question">
