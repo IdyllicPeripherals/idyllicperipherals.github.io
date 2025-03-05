@@ -113,9 +113,9 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
     </div>
     <div class="question">
         <label for="q12">Setup Root Guard:</label>
-        <input type="text" id="q12" oninput="checkAnswer('q12', 'spanning-tree root guard', this)">
+        <input type="text" id="q12" oninput="checkAnswer('q12', 'spanning-tree rootguard', this)">
         <div class="checkbox" id="q12-checkbox"></div>
-        <button class="hint-btn" onmousedown="showHint('q12', 'spanning-tree root guard')" onmouseup="clearHint('q12')">?</button>
+        <button class="hint-btn" onmousedown="showHint('q12', 'spanning-tree rootguard')" onmouseup="clearHint('q12')">?</button>
     </div>
     <div class="question">
         <label for="q13">Setup the Link Type as Point to Point:</label>
