@@ -1,0 +1,147 @@
+---
+title: 'Syslog Severity Levels Quiz'
+date: 2025-5-5 00:00:00
+description: Practice identifying Syslog severity levels by number.
+featured_image: '/images/Photo_Blog/Blank.jpg'
+---
+<head>
+    <style>
+        .question {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .Bold {
+            font-size: 2em;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .question label {
+            margin-right: 10px;
+            width: 120px;
+            display: inline-block;
+            text-align: right;
+        }
+        
+        .checkbox {
+            width: 20px;
+            height: 20px;
+            border: 2px solid #000;
+            margin-left: 10px;
+        }
+        .correct {
+            background-color: green;
+        }
+        .incorrect {
+            background-color: red;
+        }
+        input[type="text"] {
+            padding: 5px;
+            width: 150px;
+        }
+        .hint-btn {
+            margin-left: 10px;
+            font-size: 18px;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        .hint-btn:active {
+            background-color: #e0e0e0;
+        }
+
+        #s8 {
+    width: 500px; /* or however wide you want */
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="question">
+        <label for="s0">Level 0:</label>
+        <input type="text" id="s0" oninput="checkAnswer('s0', 'Emergency', this)">
+        <div class="checkbox" id="s0-checkbox"></div>
+        <button class="hint-btn" onmousedown="showHint('s0', 'Emergency')" onmouseup="clearHint('s0')">?</button>
+    </div>
+    <div class="question">
+        <label for="s1">Level 1:</label>
+        <input type="text" id="s1" oninput="checkAnswer('s1', 'Alert', this)">
+        <div class="checkbox" id="s1-checkbox"></div>
+        <button class="hint-btn" onmousedown="showHint('s1', 'Alert')" onmouseup="clearHint('s1')">?</button>
+    </div>
+    <div class="question">
+        <label for="s2">Level 2:</label>
+        <input type="text" id="s2" oninput="checkAnswer('s2', 'Critical', this)">
+        <div class="checkbox" id="s2-checkbox"></div>
+        <button class="hint-btn" onmousedown="showHint('s2', 'Critical')" onmouseup="clearHint('s2')">?</button>
+    </div>
+    <div class="question">
+        <label for="s3">Level 3:</label>
+        <input type="text" id="s3" oninput="checkAnswer('s3', 'Error', this)">
+        <div class="checkbox" id="s3-checkbox"></div>
+        <button class="hint-btn" onmousedown="showHint('s3', 'Error')" onmouseup="clearHint('s3')">?</button>
+    </div>
+    <div class="question">
+        <label for="s4">Level 4:</label>
+        <input type="text" id="s4" oninput="checkAnswer('s4', 'Warning', this)">
+        <div class="checkbox" id="s4-checkbox"></div>
+        <button class="hint-btn" onmousedown="showHint('s4', 'Warning')" onmouseup="clearHint('s4')">?</button>
+    </div>
+    <div class="question">
+        <label for="s5">Level 5:</label>
+        <input type="text" id="s5" oninput="checkAnswer('s5', 'Notice', this)">
+        <div class="checkbox" id="s5-checkbox"></div>
+        <button class="hint-btn" onmousedown="showHint('s5', 'Notice')" onmouseup="clearHint('s5')">?</button>
+    </div>
+    <div class="question">
+        <label for="s6">Level 6:</label>
+        <input type="text" id="s6" oninput="checkAnswer('s6', 'Informational', this)">
+        <div class="checkbox" id="s6-checkbox"></div>
+        <button class="hint-btn" onmousedown="showHint('s6', 'Informational')" onmouseup="clearHint('s6')">?</button>
+    </div>
+    <div class="question">
+        <label for="s7">Level 7:</label>
+        <input type="text" id="s7" oninput="checkAnswer('s7', 'Debug', this)">
+        <div class="checkbox" id="s7-checkbox"></div>
+        <button class="hint-btn" onmousedown="showHint('s7', 'Debug')" onmouseup="clearHint('s7')">?</button>
+    </div>
+
+    <div class="question">
+    <label for="s8">Mnemonic:</label>
+    <input type="text" id="s8" oninput="checkAnswer('s8', 'Every Awesome Cisco Engineer Will Need Icecream Daily', this)">
+    <div class="checkbox" id="s8-checkbox"></div>
+    <button class="hint-btn" onmousedown="showHint('s8', 'Every Awesome Cisco Engineer Will Need Icecream Daily')" onmouseup="clearHint('s8')">?</button>
+</div>
+
+
+    <script>
+        let savedAnswers = {};
+
+        function checkAnswer(questionId, correctAnswer, inputElement) {
+            const checkbox = document.getElementById(questionId + '-checkbox');
+            const answer = inputElement.value.trim().toLowerCase();
+            const correct = correctAnswer.toLowerCase();
+
+            if (answer === correct) {
+                checkbox.classList.add('correct');
+                checkbox.classList.remove('incorrect');
+            } else {
+                checkbox.classList.remove('correct');
+                checkbox.classList.add('incorrect');
+            }
+        }
+
+        function showHint(questionId, hint) {
+            const inputElement = document.getElementById(questionId);
+            savedAnswers[questionId] = inputElement.value;
+            inputElement.value = hint;
+        }
+
+        function clearHint(questionId) {
+            const inputElement = document.getElementById(questionId);
+            inputElement.value = savedAnswers[questionId] || '';
+        }
+    </script>
+</body>
