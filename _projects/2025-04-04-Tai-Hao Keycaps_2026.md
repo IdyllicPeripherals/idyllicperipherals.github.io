@@ -216,6 +216,9 @@ Adding a numpad into the kitting will approximately increase the price by 7USD. 
 
 A 150 keycap kit from Tai-Hao has a wholesale price of 23USD. 
 
+Tai-Hao is willing to produce sets at a lower MOQ. I have not asked them for exact quotes but sets with 100 or 200 kits can cost about 30% to 50% more per unit. 
+I think this sounds interesting and would love to try a low MOQ run in another colour but I don't have a design or experience gathering interest.
+
 Unlike Signature Plastics, Tai-hao keycaps come in a nice, presentable box. The inside has stacked foam and cardboard layers. 
 
  <div class="gallery2" data-columns="1">
