@@ -31,7 +31,7 @@ Tai-Hao are an established keycap company in Taiwan that has been producing doub
 
 
 Currently, they produce ABS keycaps in OEM, Cubic and Low profile. 
-I am interested in their ABS OEM because I like the legends and it has a thickness of 1.0mm which is very similar to SP DCS. I am currently using their OEM ABS Olivetti keyset and I’m really enjoying it with Cherry Browns.
+I am interested in their ABS OEM because I like the legends and it has a thickness of 1.0mm which is very similar to SP DCS. I am currently using their OEM ABS Olivetti keyset and I’m really enjoying it with Cherry Browns. The font appears to be Helvetica which looks different to both Gorton and Cherry. 
 
  <div class="gallery3" data-columns="1">
 	<img src="/images/Photo_Projects/Tai_Hao_Thickness.jpg">
