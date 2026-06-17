@@ -95,7 +95,7 @@ Assuming there are 8 vendors and each vendor buys 40 base kits, the following ta
 
 I currently don't know what markup vendors like for their keycaps so would appreciate advice and feedback. 
 
-|Markup|Retail (USD)| Profit Per Set (USD)  |Investment (USD): 40 Sets  |Gross Profit (USD): 40 Sets |Net Return (USD): 40 Sets|
+|Margin|Retail (USD)| Profit Per Set (USD)  |Investment (USD): 40 Sets  |Gross Profit (USD): 40 Sets |Net Return (USD): 40 Sets|
 |-|-|-|-|-|-|
 0% | 20 | 0 | 800 | 0 | 800 |
 10%|22 | 2 | 800 | 80 | 880 |
