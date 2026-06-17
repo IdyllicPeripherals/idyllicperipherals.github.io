@@ -42,7 +42,7 @@ featured_image: '/images/Photo_Projects/keyboard-layout.png'
 
 **2USD - Designer fee (per set)**
 
-**4USD - Designer fee (per set)**
+**4USD - Shipping Cost (per set)**
 
 **22USD - Cost price (16 + 2 + 4= 22USD)**
 
