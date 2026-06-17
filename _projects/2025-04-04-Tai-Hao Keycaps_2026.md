@@ -39,7 +39,7 @@ I am interested in their ABS OEM because I like the legends and it has a thickne
 	Image 3 - Comparing Tai-Hao keycaps to SP Keycaps
 </div>
 
-I’ve noticed beige keysets sell out quickly and there is always demand so it’s very rare to have an instock beige ABS keycap set. I want to try stocking bringing more thin ABS to the market. 
+I’ve noticed beige keysets sell out quickly and there is always demand so it’s very rare to have an instock beige ABS keycap set. I want to try stocking and bringing more thin ABS to the market. 
 
 **Additional details about Tai-Hao keycaps:**
  - Affordable and fast lead times – 2 months lead time and a price similar to their current range of keycap on the mainstream market. 
@@ -161,6 +161,10 @@ I was also thinking of having a numpad kit add-on but I have not asked Tai-Hao f
 
 
 ### Tai-Hao Basic Beige - 106x Key Base Kit 
+
+This is the draft of my base kit. I don't think it is perfect so I am willing to change it based off feedback. For example, I want to include R3 1.75u Control. 
+
+For now this kitting is just a reference to get a rough idea on wholesale pricing from Tai-Hao.
 
  <div class="gallery2" data-columns="1">
 	<img src="/images/Photo_Projects/keyboard-layout_2026.png">
