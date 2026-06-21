@@ -56,8 +56,8 @@ Iâ€™ve noticed beige keysets sell out quickly and there is always demand so itâ€
 
 ### TLDR Summary:
 * Tai-Hao Keycaps 
-	-  OEM profile & ABS material
-	- 1.0mm Thickness
+	-  OEM profile | Double-shot |ABS material
+	- ~1.0mm Thickness
 * Custom beige colourway, 106 keys
 	- Beige matched to GMK L9 and U9 
 * **300 MOQ** shipped from Taiwan
