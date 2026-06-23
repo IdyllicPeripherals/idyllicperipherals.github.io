@@ -1,7 +1,7 @@
 ---
-title: 'TCP/UDP Port Number Quiz'
-date: 2025-5-5 00:00:00
-description: TCP and UDP Ports Practise.
+title: 'Dynamic ARP Inspection Quiz'
+date: 2026-06-26 00:00:00
+description: Cisco Dynamic ARP Inspection (DAI) Commands Practise.
 featured_image: '/images/Photo_Blog/Blank.jpg'
 ---
 <head>
@@ -34,7 +34,7 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
         .incorrect { background-color: red; }
         input[type="text"] {
             padding: 5px;
-            width: 100px;
+            width: 400px;
             font-family: monospace;
             font-size: 0.95em;
         }
@@ -52,141 +52,109 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
 </head>
 
 <body>
-    <!-- TCP Port Numbers -->
-    <div class="Bold">TCP Port Numbers</div>
+    <div class="Bold">Dynamic ARP Inspection</div>
 
     <div class="question">
-        <label for="q0">SSH – Secure Shell:</label>
+        <label for="q0">Create an ARP ACL:</label>
         <input type="text" id="q0" oninput="checkAnswer('q0', this)">
         <div class="checkbox" id="q0-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q0">?</button>
     </div>
 
     <div class="question">
-        <label for="q1">FTP – File Transfer Protocol:</label>
+        <label for="q1">Enable DAI for a VLAN:</label>
         <input type="text" id="q1" oninput="checkAnswer('q1', this)">
         <div class="checkbox" id="q1-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q1">?</button>
     </div>
 
     <div class="question">
-        <label for="q2">POP3 – Post Office Protocol 3:</label>
+        <label for="q2">Apply an ARP ACL to DAI:</label>
         <input type="text" id="q2" oninput="checkAnswer('q2', this)">
         <div class="checkbox" id="q2-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q2">?</button>
     </div>
 
     <div class="question">
-        <label for="q3">HTTP – Hypertext Transfer Protocol:</label>
+        <label for="q3">Show a summary of DAI interfaces:</label>
         <input type="text" id="q3" oninput="checkAnswer('q3', this)">
         <div class="checkbox" id="q3-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q3">?</button>
     </div>
 
     <div class="question">
-        <label for="q4">Telnet – Remote Command Line Access:</label>
+        <label for="q4">Configure a DAI trusted interface:</label>
         <input type="text" id="q4" oninput="checkAnswer('q4', this)">
         <div class="checkbox" id="q4-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q4">?</button>
     </div>
 
     <div class="question">
-        <label for="q5">SMTP – Simple Mail Transfer Protocol:</label>
+        <label for="q5">Enable additional DAI validation checks for IP:</label>
         <input type="text" id="q5" oninput="checkAnswer('q5', this)">
         <div class="checkbox" id="q5-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q5">?</button>
     </div>
 
     <div class="question">
-        <label for="q6">HTTPS – Hypertext Transfer Protocol Secure:</label>
+        <label for="q6">Enable err-disable recovery for DAI rate limiting:</label>
         <input type="text" id="q6" oninput="checkAnswer('q6', this)">
         <div class="checkbox" id="q6-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q6">?</button>
     </div>
 
     <div class="question">
-        <label for="q7">FTP Control – File Transfer Protocol Control:</label>
+        <label for="q7">Show a summary of DAI configuration and statistics:</label>
         <input type="text" id="q7" oninput="checkAnswer('q7', this)">
         <div class="checkbox" id="q7-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q7">?</button>
     </div>
 
-    <!-- UDP Port Numbers -->
-    <div class="Bold">UDP Port Numbers</div>
-
     <div class="question">
-        <label for="q8">Syslog – System Logging Protocol:</label>
+        <label for="q8">Configure DAI rate limiting to 20 packets per second:</label>
         <input type="text" id="q8" oninput="checkAnswer('q8', this)">
         <div class="checkbox" id="q8-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q8">?</button>
     </div>
 
     <div class="question">
-        <label for="q9">TFTP – Trivial File Transfer Protocol:</label>
+        <label for="q9">Enable additional DAI validation checks for source MAC:</label>
         <input type="text" id="q9" oninput="checkAnswer('q9', this)">
         <div class="checkbox" id="q9-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q9">?</button>
     </div>
 
     <div class="question">
-        <label for="q10">SNMP – Simple Network Management Protocol:</label>
+        <label for="q10">Enable additional DAI validation checks for destination MAC:</label>
         <input type="text" id="q10" oninput="checkAnswer('q10', this)">
         <div class="checkbox" id="q10-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q10">?</button>
     </div>
 
     <div class="question">
-        <label for="q11">DHCP Server – Dynamic Host Configuration Protocol:</label>
+        <label for="q11">Configure an ARP ACL entry mapping an IP address to a MAC address (permit):</label>
         <input type="text" id="q11" oninput="checkAnswer('q11', this)">
         <div class="checkbox" id="q11-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q11">?</button>
     </div>
 
-    <div class="question">
-        <label for="q12">DHCP Client – Dynamic Host Configuration Protocol:</label>
-        <input type="text" id="q12" oninput="checkAnswer('q12', this)">
-        <div class="checkbox" id="q12-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q12">?</button>
-    </div>
-
-    <div class="question">
-        <label for="q13">SNMP Manager – Simple Network Management Protocol:</label>
-        <input type="text" id="q13" oninput="checkAnswer('q13', this)">
-        <div class="checkbox" id="q13-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q13">?</button>
-    </div>
-
-    <br>
-    <!-- TCP & UDP Port Numbers -->
-    <div class="Bold">TCP & UDP Port Numbers</div>
-
-    <div class="question">
-        <label for="q14">DNS – Domain Name System:</label>
-        <input type="text" id="q14" oninput="checkAnswer('q14', this)">
-        <div class="checkbox" id="q14-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q14">?</button>
-    </div>
-
     <script>
         const answers = {
-            'q0':  '22',
-            'q1':  '20',
-            'q2':  '110',
-            'q3':  '80',
-            'q4':  '23',
-            'q5':  '25',
-            'q6':  '443',
-            'q7':  '21',
-            'q8':  '514',
-            'q9':  '69',
-            'q10': '161',
-            'q11': '67',
-            'q12': '68',
-            'q13': '162',
-            'q14': '53',
+            'q0':  'arp access-list name',
+            'q1':  'ip arp inspection vlan vlan',
+            'q2':  'ip arp inspection filter arp-acl-name vlan vlan',
+            'q3':  'show ip arp inspection interfaces',
+            'q4':  'ip arp inspection trust',
+            'q5':  'ip arp inspection validate ip',
+            'q6':  'errdisable recovery cause arp-inspection',
+            'q7':  'show ip arp inspection',
+            'q8':  'ip arp inspection limit rate packets 20',
+            'q9':  'ip arp inspection validate src-mac',
+            'q10': 'ip arp inspection validate dst-mac',
+            'q11': 'permit ip host ip-address mac host mac-address',
         };
 
-        const inputOrder = ['q0','q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11','q12','q13','q14'];
+        const inputOrder = ['q0','q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11'];
         const savedAnswers = {};
 
         function checkAnswer(questionId, inputElement) {

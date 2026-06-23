@@ -1,7 +1,7 @@
 ---
-title: 'TCP/UDP Port Number Quiz'
-date: 2025-5-5 00:00:00
-description: TCP and UDP Ports Practise.
+title: 'DHCP Snooping Quiz'
+date: 2026-6-6 00:00:00
+description: Cisco DHCP Snooping Commands Practise.
 featured_image: '/images/Photo_Blog/Blank.jpg'
 ---
 <head>
@@ -34,7 +34,7 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
         .incorrect { background-color: red; }
         input[type="text"] {
             padding: 5px;
-            width: 100px;
+            width: 400px;
             font-family: monospace;
             font-size: 0.95em;
         }
@@ -52,141 +52,71 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
 </head>
 
 <body>
-    <!-- TCP Port Numbers -->
-    <div class="Bold">TCP Port Numbers</div>
+    <div class="Bold">DHCP Snooping</div>
 
     <div class="question">
-        <label for="q0">SSH – Secure Shell:</label>
+        <label for="q0">Configure a DHCP snooping trusted port:</label>
         <input type="text" id="q0" oninput="checkAnswer('q0', this)">
         <div class="checkbox" id="q0-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q0">?</button>
     </div>
 
     <div class="question">
-        <label for="q1">FTP – File Transfer Protocol:</label>
-        <input type="text" id="q1" oninput="checkAnswer('q1', this)">
-        <div class="checkbox" id="q1-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q1">?</button>
-    </div>
-
-    <div class="question">
-        <label for="q2">POP3 – Post Office Protocol 3:</label>
+        <label for="q2">Enable DHCP Snooping on VLAN 1:</label>
         <input type="text" id="q2" oninput="checkAnswer('q2', this)">
         <div class="checkbox" id="q2-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q2">?</button>
     </div>
 
     <div class="question">
-        <label for="q3">HTTP – Hypertext Transfer Protocol:</label>
+        <label for="q3">Enable DHCP Snooping on the switch:</label>
         <input type="text" id="q3" oninput="checkAnswer('q3', this)">
         <div class="checkbox" id="q3-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q3">?</button>
     </div>
 
-    <div class="question">
-        <label for="q4">Telnet – Remote Command Line Access:</label>
-        <input type="text" id="q4" oninput="checkAnswer('q4', this)">
-        <div class="checkbox" id="q4-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q4">?</button>
-    </div>
-
-    <div class="question">
-        <label for="q5">SMTP – Simple Mail Transfer Protocol:</label>
-        <input type="text" id="q5" oninput="checkAnswer('q5', this)">
-        <div class="checkbox" id="q5-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q5">?</button>
-    </div>
-
-    <div class="question">
-        <label for="q6">HTTPS – Hypertext Transfer Protocol Secure:</label>
+        <div class="question">
+        <label for="q6">Show the DHCP snooping binding table:</label>
         <input type="text" id="q6" oninput="checkAnswer('q6', this)">
         <div class="checkbox" id="q6-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q6">?</button>
     </div>
 
     <div class="question">
-        <label for="q7">FTP Control – File Transfer Protocol Control:</label>
-        <input type="text" id="q7" oninput="checkAnswer('q7', this)">
-        <div class="checkbox" id="q7-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q7">?</button>
-    </div>
-
-    <!-- UDP Port Numbers -->
-    <div class="Bold">UDP Port Numbers</div>
-
-    <div class="question">
-        <label for="q8">Syslog – System Logging Protocol:</label>
-        <input type="text" id="q8" oninput="checkAnswer('q8', this)">
-        <div class="checkbox" id="q8-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q8">?</button>
+        <label for="q4">Enable errdisable recovery for DHCP rate limiting violations:</label>
+        <input type="text" id="q4" oninput="checkAnswer('q4', this)">
+        <div class="checkbox" id="q4-checkbox"></div>
+        <button class="hint-btn" tabindex="-1" data-question="q4">?</button>
     </div>
 
     <div class="question">
-        <label for="q9">TFTP – Trivial File Transfer Protocol:</label>
-        <input type="text" id="q9" oninput="checkAnswer('q9', this)">
-        <div class="checkbox" id="q9-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q9">?</button>
+        <label for="q5">Limit the rate that DHCP messages are allowed on a DHCP snooping enabled interface to 100 mbps:</label>
+        <input type="text" id="q5" oninput="checkAnswer('q5', this)">
+        <div class="checkbox" id="q5-checkbox"></div>
+        <button class="hint-btn" tabindex="-1" data-question="q5">?</button>
     </div>
 
-    <div class="question">
-        <label for="q10">SNMP – Simple Network Management Protocol:</label>
-        <input type="text" id="q10" oninput="checkAnswer('q10', this)">
-        <div class="checkbox" id="q10-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q10">?</button>
+        <div class="question">
+        <label for="q1">Configure the DHCP snooping-enabled switch to not add option 82 to DHCP messages:</label>
+        <input type="text" id="q1" oninput="checkAnswer('q1', this)">
+        <div class="checkbox" id="q1-checkbox"></div>
+        <button class="hint-btn" tabindex="-1" data-question="q1">?</button>
     </div>
 
-    <div class="question">
-        <label for="q11">DHCP Server – Dynamic Host Configuration Protocol:</label>
-        <input type="text" id="q11" oninput="checkAnswer('q11', this)">
-        <div class="checkbox" id="q11-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q11">?</button>
-    </div>
 
-    <div class="question">
-        <label for="q12">DHCP Client – Dynamic Host Configuration Protocol:</label>
-        <input type="text" id="q12" oninput="checkAnswer('q12', this)">
-        <div class="checkbox" id="q12-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q12">?</button>
-    </div>
-
-    <div class="question">
-        <label for="q13">SNMP Manager – Simple Network Management Protocol:</label>
-        <input type="text" id="q13" oninput="checkAnswer('q13', this)">
-        <div class="checkbox" id="q13-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q13">?</button>
-    </div>
-
-    <br>
-    <!-- TCP & UDP Port Numbers -->
-    <div class="Bold">TCP & UDP Port Numbers</div>
-
-    <div class="question">
-        <label for="q14">DNS – Domain Name System:</label>
-        <input type="text" id="q14" oninput="checkAnswer('q14', this)">
-        <div class="checkbox" id="q14-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q14">?</button>
-    </div>
 
     <script>
         const answers = {
-            'q0':  '22',
-            'q1':  '20',
-            'q2':  '110',
-            'q3':  '80',
-            'q4':  '23',
-            'q5':  '25',
-            'q6':  '443',
-            'q7':  '21',
-            'q8':  '514',
-            'q9':  '69',
-            'q10': '161',
-            'q11': '67',
-            'q12': '68',
-            'q13': '162',
-            'q14': '53',
+            'q0': 'ip dhcp snooping trust',
+            'q1': 'no ip dhcp snooping information option',
+            'q2': 'ip dhcp snooping vlan 1',
+            'q3': 'ip dhcp snooping',
+            'q4': 'errdisable recovery cause dhcp-rate-limit',
+            'q5': 'ip dhcp snooping limit 100',
+            'q6': 'show ip dhcp snooping binding',
         };
 
-        const inputOrder = ['q0','q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11','q12','q13','q14'];
+        const inputOrder = ['q0','q1','q2','q3','q4','q5','q6'];
         const savedAnswers = {};
 
         function checkAnswer(questionId, inputElement) {
