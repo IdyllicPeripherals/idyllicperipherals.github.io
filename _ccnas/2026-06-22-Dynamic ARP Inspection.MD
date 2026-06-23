@@ -54,25 +54,18 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
 <body>
     <div class="Bold">Dynamic ARP Inspection</div>
 
-    <div class="question">
-        <label for="q0">Create an ARP ACL:</label>
-        <input type="text" id="q0" oninput="checkAnswer('q0', this)">
-        <div class="checkbox" id="q0-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q0">?</button>
-    </div>
-
-    <div class="question">
-        <label for="q1">Enable DAI for a VLAN:</label>
+        <div class="question">
+        <label for="q1">Enable DAI on VLAN 10:</label>
         <input type="text" id="q1" oninput="checkAnswer('q1', this)">
         <div class="checkbox" id="q1-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q1">?</button>
     </div>
 
     <div class="question">
-        <label for="q2">Apply an ARP ACL to DAI:</label>
-        <input type="text" id="q2" oninput="checkAnswer('q2', this)">
-        <div class="checkbox" id="q2-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q2">?</button>
+        <label for="q0">Create an ARP ACL called [name]:</label>
+        <input type="text" id="q0" oninput="checkAnswer('q0', this)">
+        <div class="checkbox" id="q0-checkbox"></div>
+        <button class="hint-btn" tabindex="-1" data-question="q0">?</button>
     </div>
 
     <div class="question">
@@ -83,17 +76,17 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
     </div>
 
     <div class="question">
-        <label for="q4">Configure a DAI trusted interface:</label>
-        <input type="text" id="q4" oninput="checkAnswer('q4', this)">
-        <div class="checkbox" id="q4-checkbox"></div>
-        <button class="hint-btn" tabindex="-1" data-question="q4">?</button>
-    </div>
-
-    <div class="question">
         <label for="q5">Enable additional DAI validation checks for IP:</label>
         <input type="text" id="q5" oninput="checkAnswer('q5', this)">
         <div class="checkbox" id="q5-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q5">?</button>
+    </div>
+
+        <div class="question">
+        <label for="q2">Apply the ARP ACL [name] to DAI on VLAN 20:</label>
+        <input type="text" id="q2" oninput="checkAnswer('q2', this)">
+        <div class="checkbox" id="q2-checkbox"></div>
+        <button class="hint-btn" tabindex="-1" data-question="q2">?</button>
     </div>
 
     <div class="question">
@@ -102,6 +95,14 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
         <div class="checkbox" id="q6-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q6">?</button>
     </div>
+
+    <div class="question">
+        <label for="q4">Configure the current interface as trusted for DAI:</label>
+        <input type="text" id="q4" oninput="checkAnswer('q4', this)">
+        <div class="checkbox" id="q4-checkbox"></div>
+        <button class="hint-btn" tabindex="-1" data-question="q4">?</button>
+    </div>
+
 
     <div class="question">
         <label for="q7">Show a summary of DAI configuration and statistics:</label>
@@ -132,7 +133,7 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
     </div>
 
     <div class="question">
-        <label for="q11">Configure an ARP ACL entry mapping an IP address to a MAC address (permit):</label>
+        <label for="q11">Configure a permit ARP ACL entry mapping IP address 192.168.20.2 to MAC address AAA:</label>
         <input type="text" id="q11" oninput="checkAnswer('q11', this)">
         <div class="checkbox" id="q11-checkbox"></div>
         <button class="hint-btn" tabindex="-1" data-question="q11">?</button>
@@ -141,8 +142,8 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
     <script>
         const answers = {
             'q0':  'arp access-list name',
-            'q1':  'ip arp inspection vlan vlan',
-            'q2':  'ip arp inspection filter arp-acl-name vlan vlan',
+            'q1':  'ip arp inspection vlan 10',
+            'q2':  'ip arp inspection filter name vlan 20',
             'q3':  'show ip arp inspection interfaces',
             'q4':  'ip arp inspection trust',
             'q5':  'ip arp inspection validate ip',
@@ -151,7 +152,7 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
             'q8':  'ip arp inspection limit rate packets 20',
             'q9':  'ip arp inspection validate src-mac',
             'q10': 'ip arp inspection validate dst-mac',
-            'q11': 'permit ip host ip-address mac host mac-address',
+            'q11': 'permit ip host 192.168.20.2 mac host AAA',
         };
 
         const inputOrder = ['q0','q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11'];
