@@ -1,6 +1,6 @@
 ---
 title: 'Dynamic ARP Inspection Quiz'
-date: 2026-06-26 00:00:00
+date: 2026-06-22 00:00:00
 description: Cisco Dynamic ARP Inspection (DAI) Commands Practise.
 featured_image: '/images/Photo_Blog/Blank.jpg'
 ---
