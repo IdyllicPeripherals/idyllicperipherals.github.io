@@ -56,12 +56,13 @@ Iâ€™ve noticed beige keysets sell out quickly and there is always demand so itâ€
 
 ### TLDR Summary:
 * Tai-Hao Keycaps 
-	-  OEM profile | Double-shot |ABS material
+	-  OEM profile - Double-shot - ABS material
 	- ~1.0mm Thickness
 * Custom beige colourway, 106 keys
 	- Beige matched to GMK L9 and U9 
 * **300 MOQ** shipped from Taiwan
 * **16USD wholesale price**
+* **4USD - shipping Cost (per set)**
 * **20USD cost price**
 * **33USD suggested retail pricing / TBD**
 * Aiming for 8 Vendors and 40 sets each (8x40=300 MOQ)
