@@ -1,6 +1,6 @@
 ---
 title: 'Wireless Security Acronyms Quiz'
-date: 2025-5-5 00:00:00
+date: 2026-07-26 00:00:00
 description: Wireless Security Acronyms Practice.
 featured_image: '/images/Photo_Blog/Blank.jpg'
 ---
