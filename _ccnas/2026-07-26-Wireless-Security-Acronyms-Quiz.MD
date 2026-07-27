@@ -1,6 +1,6 @@
 ---
 title: 'Wireless Security Acronyms Quiz'
-date: 2026-07-26 00:00:00
+date: 2026-7-27 00:00:00
 description: Wireless Security Acronyms Practice.
 featured_image: '/images/Photo_Blog/Blank.jpg'
 ---
@@ -171,24 +171,23 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
 
     <script>
         const answers = {
-                'q0':  'Open Systems Authentication',
-                'q1':  'Shared Key Authentication',
-                'q2':  'Wired Equivalent Privacy',
-                'q3':  'Extensible Authentication Protocol',
-                'q4':  'Lightweight Extensible Authentication Protocol',
-                'q5':  'Extensible Authentication Protocol-Flexible Authentication  Secure Tunneling',
-                'q6':  'Protected Extensible Authentication Protocol',
-                'q7':  'Extensible Authentication Protocol-Transport Layer Security',
-                'q8':  'Temporal Key Integrity Protocol,
-                'q9':  'Counter Mode with Cipher Block Chaining Message Authentication Code Protocol',
-                'q10': 'Galois Counter Mode Protocol',
-                'q11': 'Message Integrity Check,
-                'q12': 'Pre-Shared Key,
-                'q13': 'Wi-Fi Protected Access,
-                'q14': 'Protected Management Frames,
-                'q15': 'Simultaneous Authentication of Equals',
-            }
-        ;
+            'q0':  'Open Systems Authentication',
+            'q1':  'Shared Key Authentication',
+            'q2':  'Wired Equivalent Privacy',
+            'q3':  'Extensible Authentication Protocol',
+            'q4':  'Lightweight Extensible Authentication Protocol',
+            'q5':  'Extensible Authentication Protocol-Flexible Authentication Secure Tunneling',
+            'q6':  'Protected Extensible Authentication Protocol',
+            'q7':  'Extensible Authentication Protocol-Transport Layer Security',
+            'q8':  'Temporal Key Integrity Protocol',
+            'q9':  'Counter Mode with Cipher Block Chaining Message Authentication Code Protocol',
+            'q10': 'Galois Counter Mode Protocol',
+            'q11': 'Message Integrity Check',
+            'q12': 'Pre-Shared Key',
+            'q13': 'Wi-Fi Protected Access',
+            'q14': 'Protected Management Frames',
+            'q15': 'Simultaneous Authentication of Equals',
+        };
 
         const inputOrder = ['q0','q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11','q12','q13','q14','q15'];
         const savedAnswers = {};
