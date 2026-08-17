@@ -112,7 +112,7 @@ featured_image: '/images/Photo_Blog/Split_Code.jpg'
         font-weight: 500;
     }
 
-    .copy-btn:hover { background-color: #218838; }
+    .copy-btn:hover { background-color: #d88200; }
 
     .chunk-text {
         width: 100%;
@@ -138,7 +138,7 @@ featured_image: '/images/Photo_Blog/Split_Code.jpg'
 <div class="chunk-size-toggle">
     <label>Chunk size:</label>
     <button class="toggle-btn active" id="btn10k" onclick="setChunkSize(10000, this)">10,000</button>
-    <button class="toggle-btn" id="btn3500" onclick="setChunkSize(9000, this)">9000</button>
+    <button class="toggle-btn" id="btn3500" onclick="setChunkSize(000, this)">9000</button>
     <button class="toggle-btn" id="btn2k" onclick="setChunkSize(2000, this)">2,000</button>
 </div>
 
