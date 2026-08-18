@@ -142,6 +142,7 @@
 
 <script>
     let maxChunkSize = 10000;
+    let isSplitting = false; // guard against re-entrant calls
 
     function setChunkSize(size, btn) {
         maxChunkSize = size;
@@ -149,36 +150,54 @@
             b.classList.remove('active');
         });
         btn.classList.add('active');
+
+        // Re-split automatically if output already exists
+        var output = document.getElementById('output');
+        if (output && output.children.length > 0) {
+            splitText();
+        }
     }
 
     var inputText = document.getElementById('inputText');
 
-    inputText.addEventListener('input', updateCount);
-    inputText.addEventListener('paste', function() {
+    if (inputText) {
+        inputText.removeEventListener('input', updateCount);
+        inputText.removeEventListener('paste', handlePaste);
+        inputText.addEventListener('input', updateCount);
+        inputText.addEventListener('paste', handlePaste);
+    }
+
+    function handlePaste() {
         setTimeout(updateCount, 0);
-    });
+    }
 
     function updateCount() {
-        document.getElementById('charCount').textContent =
-            inputText.value.length.toLocaleString();
+        var el = document.getElementById('charCount');
+        if (el) el.textContent = inputText.value.length.toLocaleString();
     }
 
     function splitText() {
+        if (isSplitting) return; // prevent freeze from re-entrant calls
+        isSplitting = true;
+
         var text = inputText.value;
         var output = document.getElementById('output');
         output.innerHTML = '';
 
         if (!text.trim()) {
             output.innerHTML = '<p style="color:red;">Please enter some text first.</p>';
+            isSplitting = false;
             return;
         }
 
+        // Use setTimeout to yield to browser between chunks
         var index = 0;
         var chunkIndex = 1;
+        var chunks = [];
 
         while (index < text.length) {
             if (text.length - index <= maxChunkSize) {
-                createChunkBox(text.slice(index), chunkIndex++);
+                chunks.push(text.slice(index));
                 break;
             }
 
@@ -189,9 +208,22 @@
 
             if (cutPoint <= index) cutPoint = endPoint;
 
-            createChunkBox(text.slice(index, cutPoint), chunkIndex++);
+            chunks.push(text.slice(index, cutPoint));
             index = cutPoint + 1;
         }
+
+        // Render chunks one at a time, yielding to browser each time
+        var i = 0;
+        function renderNext() {
+            if (i < chunks.length) {
+                createChunkBox(chunks[i], i + 1);
+                i++;
+                setTimeout(renderNext, 0);
+            } else {
+                isSplitting = false;
+            }
+        }
+        renderNext();
     }
 
     function createChunkBox(chunk, number) {
