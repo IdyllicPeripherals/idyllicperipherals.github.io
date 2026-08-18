@@ -1,10 +1,3 @@
----
-title: 'Smart Text Splitter & Character Copy'
-date: 2026-08-17 00:00:00
-description: Copy Chunks of Code in 10,000 or 2,000 Character Blocks.
-featured_image: '/images/Photo_Blog/Split_Code.jpg'
----
-
 <style>
     * { box-sizing: border-box; }
 
@@ -59,10 +52,10 @@ featured_image: '/images/Photo_Blog/Split_Code.jpg'
     }
 
     .toggle-btn.active { background: #FFA21A; color: white; }
-    .toggle-btn:hover:not(.active) { 
-    background: #FFA21A; 
-    color: white; 
-}
+    .toggle-btn:hover:not(.active) {
+        background: #FFA21A;
+        color: white;
+    }
 
     .action-btn {
         width: 100%;
@@ -135,13 +128,12 @@ featured_image: '/images/Photo_Blog/Split_Code.jpg'
         Characters: <span id="charCount">0</span>
     </div>
 
-<div class="chunk-size-toggle">
-    <label>Chunk size:</label>
-    <button class="toggle-btn active" id="btn10k" onclick="setChunkSize(10000, this)">10,000</button>
-    <button class="toggle-btn" id="btn3500" onclick="setChunkSize(000, this)">9000</button>
-    <button class="toggle-btn" id="btn2k" onclick="setChunkSize(2000, this)">2,000</button>
-</div>
-
+    <div class="chunk-size-toggle">
+        <label>Chunk size:</label>
+        <button class="toggle-btn active" id="btn10k" onclick="setChunkSize(10000, this)">10,000</button>
+        <button class="toggle-btn" id="btn9k" onclick="setChunkSize(9000, this)">9,000</button>
+        <button class="toggle-btn" id="btn2k" onclick="setChunkSize(2000, this)">2,000</button>
+    </div>
 
     <button class="action-btn" onclick="splitText()">Split Text Safely</button>
 
@@ -238,7 +230,7 @@ featured_image: '/images/Photo_Blog/Split_Code.jpg'
             button.style.backgroundColor = '#FFA21A';
             setTimeout(function() {
                 button.innerText = originalText;
-                button.style.backgroundColor = '#a06000';
+                button.style.backgroundColor = '';
             }, 1200);
         });
     }
