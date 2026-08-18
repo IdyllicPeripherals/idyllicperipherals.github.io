@@ -1,3 +1,10 @@
+---
+title: 'Smart Text Splitter & Character Copy'
+date: 2026-08-17 00:00:00
+description: Copy Chunks of Code in 10,000 or 2,000 Character Blocks.
+featured_image: '/images/Photo_Blog/Split_Code.jpg'
+---
+
 <style>
     * { box-sizing: border-box; }
 
