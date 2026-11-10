@@ -156,7 +156,6 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
             return list.split(/[\s,]+/)
                 .map(function(x) { return x.trim().toLowerCase(); })
                 .filter(Boolean)
-                .sort()
                 .join(',');
         }
 
@@ -182,15 +181,13 @@ featured_image: '/images/Photo_Blog/Blank.jpg'
             const endsWithSep = /[\s,]$/.test(states);
             const fragment = endsWithSep ? '' : (parts.pop() || '');
             const done = parts;
-            const remaining = expected.slice();
-
+            if (done.length > expected.length) return false;
             for (let i = 0; i < done.length; i++) {
-                const idx = remaining.indexOf(done[i]);
-                if (idx === -1) return false;
-                remaining.splice(idx, 1);
+                if (done[i] !== expected[i]) return false;
             }
             if (fragment) {
-                return remaining.some(function(x) { return x.startsWith(fragment); });
+                const next = expected[done.length];
+                return !!next && next.startsWith(fragment);
             }
             return true;
         }
