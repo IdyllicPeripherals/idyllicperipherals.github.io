@@ -1,6 +1,6 @@
 ---
 title: 'Private IP Addresses and Ranges Quiz'
-date: 2026-11-13 00:00:00
+date: 2026-11-10 00:00:00
 description: Private and special IPv4 address range practice.
 featured_image: '/images/Photo_Blog/Blank.jpg'
 ---
@@ -85,9 +85,9 @@ const items = [
       desc: 'Class B private range. Often tested as a trap: the second octet stops at 31, so anything beyond that is a public IP.' },
     { name: 'Private Class C (RFC 1918)', cidr: '192.168.0.0/16', range: '192.168.0.0 - 192.168.255.255',
       desc: 'Class C private range. The standard range for small offices, branch sites, and home labs.' },
-    { name: 'Loopback', cidr: '127.0.0.0/8', range: '127.0.0.1 - 127.255.255.254',
+    { name: 'Loopback', cidr: '127.0.0.0/8', range: '127.0.0.0 - 127.255.255.255',
       desc: 'Tests local TCP/IP stack health (ping the loopback address); cannot be assigned to a physical interface.' },
-    { name: 'APIPA / Link-Local', cidr: '169.254.0.0/16', range: '169.254.0.1 - 169.254.255.254',
+    { name: 'APIPA / Link-Local', cidr: '169.254.0.0/16', range: '169.254.0.0 - 169.254.255.255',
       desc: 'Self-assigned by a host when it cannot reach a DHCP server; not routable beyond the local link.' }
 ];
 
